@@ -1,105 +1,73 @@
-BE 167L - Bioengineering Laboratory
+---
+header-includes: |
+    \renewcommand\familydefault{\sfdefault}
+    \usepackage[euler]{textgreek}
+---
 
-Lab 1: Solutions, Measurements, and Microscopy
+# BE 167L - Bioengineering Laboratory
 
-1. Solutions, Pipetting, and Scales 
-====================================
+## Lab 1: Solutions, Measurements, and Microscopy
 
-In the laboratory, you will need to interact with both liquid and solid
-reagents. As an introduction, this lab will introduce you to the
-equipment used to handle and measure these reagents respectively. In
-particular, handling small volumes while pipetting is a crucial skill
-you must master in a wet lab environment. In this part of the lab, you
-will learn to operate multiple pieces of equipment in order to create a
+------------------------------------------------------------------------------
+
+### Solutions, Pipetting, and Scales
+
+In the laboratory, you will need to interact with both liquid and solid reagents. As an introduction, this lab will introduce you to the equipment used to handle and measure these reagents respectively. In particular, handling small volumes while pipetting is a crucial skill you must master in a wet lab environment. In this part of the lab, you will learn to operate multiple pieces of equipment in order to create a
 buffered solution and record the pH of your solutions.
 
-1.1 Prelab Preparation
-----------------------
+#### Prelab Preparation
 
-Pipettes and Pipet-Aids cost several hundred dollars EACH. You must have
-an understanding of how they work in order to prevent possible damage.
-**Read the Good Laboratory Pipetting Guide from Thermo Fisher.**
+Pipettes and Pipet-Aids cost several hundred dollars EACH. You must have an understanding of how they work in order to prevent possible damage. **Read the Good Laboratory Pipetting Guide from Thermo Fisher.**
 
-Review the following instructions **PRIOR** to your lab where your TA
-will demonstrate
+Review the following instructions **PRIOR** to your lab where your TA will demonstrate
 
-Liquid Loading 
-===============
+### Liquid Loading 
 
--   Slowly press the pipette plunger down to the first stop (most of the
-    way), you will feel the resistance.
+- Slowly press the pipette plunger down to the first stop (most of the way), you will feel the resistance.
+- Insert tip about 1 cm into the liquid and SLOWLY let the plunger slide back into the rest position. Note: Don't let liquids bounce up into the pipette shaft. This can damage your pipette and contaminate the rest of your samples.
+- Repeat this 1-2 times to condition the pipette tip. Then collect the water.
 
--   Insert tip about 1 cm into the liquid and SLOWLY let the plunger
-    slide back into the rest position. Note: Don't let liquids bounce up
-    into the pipette shaft. This can damage your pipette and contaminate
-    the rest of your samples.
+![](media/image1.jpg){width="5.9in" height="2.125in"}
 
--   Repeat this 1-2 times to condition the pipette tip. Then collect the
-    water.
+### Liquid Dispensing 
 
-![](media/image1.jpg){width="5.986666666666666in" height="2.125in"}
-
-Liquid Dispensing 
-==================
-
--   Transfer the pipette to the new container.
-
--   Slowly press the plunger down to the first stop, then slightly
-    harder until it reaches the second stop to unload.
-
--   Slowly release the plunger to the rest position to avoid back splash
-    of liquid onto pipette shaft.
+- Transfer the pipette to the new container.
+- Slowly press the plunger down to the first stop, then slightly harder until it reaches the second stop to unload.
+- Slowly release the plunger to the rest position to avoid back splash of liquid onto pipette shaft.
 
 **1.2 Preparation**
 
 **Reagents**
 
 -   DI Water (12 mL)
-
 -   MEM powder (120 mg)
-
 -   Sodium Bicarbonate NaHCO3 (25mg)
-
 -   Hydrochloric Acid HCl (.5M)
-
 -   Sodium Hydroxide NaOH (.5M)
 
 Supplies 
 =========
 
 -   15 mL conical tube
-
 -   Pipette tips
-
 -   Sharpie marker
-
 -   Serological Pipettes
 
 Equipment 
 ==========
 
 -   Pipettes
-
 -   Pipet-Aid
-
 -   Scale or balance
-
 -   Tube rack
-
 -   pH meter
 
 1.3 Procedure 
 --------------
 
 1.  Weigh out 120 mg of the MEM powder supplied by the TA.
-
-2.  Dissolve your MEM powder in 12 mL's of DI water into a 15mL conical
-    tube and label this tube as **buffer**.
-
-3.  Take out 2.5 mL's of your solution and place it into a new 15 mL
-    conical tube, do this again so that you have a total of 3 conical
-    tubes
-
+2.  Dissolve your MEM powder in 12 mL's of DI water into a 15mL conical tube and label this tube as **buffer**.
+3.  Take out 2.5 mL's of your solution and place it into a new 15 mL conical tube, do this again so that you have a total of 3 conical tubes
 4.  Label one tube **acid+**, and the other **base+**.
 
 5.  To your **buffer** solution add 25 mg of NaHCO3 then repeat steps 3
@@ -131,14 +99,12 @@ Reagents
 =========
 
 -   DI Water
-
 -   Buffer from Part 1
 
 Supplies 
 =========
 
 -   96 well plate (shared with another group)
-
 -   P200 pipette
 
 Equipment 
@@ -191,7 +157,7 @@ Reagents
 Supplies 
 =========
 
--   1*.*5*mL −* 2*mL* microcentrifuge tube
+-   1.5 mL – 2 mL microcentrifuge tube
 
 -   P1000 pipette
 
@@ -259,7 +225,7 @@ Equipment
     deep. The volume of the liquid above one square is therefore
     0*.*1*mm*^3^. Since
 
-> 1*mm*^3^ = 10*−*4 *cm*^3^ the volume of the liquid counted is 10*^-4^*
+> 1*mm*^3^ = 10*–*4 *cm*^3^ the volume of the liquid counted is 10*^-4^*
 > *mL*. Your bead concentration beads/*mL* is the number you counted
 > multiplied by 10^4^. Do your own dimensional analysis to confirm this.
 

@@ -4,7 +4,7 @@ labs_pdf := $(patsubst labs/%.md, site/pdf/%.pdf, $(labs_md))
 
 site/pdf/%.pdf: labs/%.md
 	mkdir -p site/pdf
-	pandoc --pdf-engine=pdflatex $< -o $@
+	pandoc -s -V geometry:margin=1in -V fontfamily:helvet -V fontfamilyoptions:scaled --pdf-engine=pdflatex -f markdown $< -o $@
 
 all: $(labs_pdf)
 
