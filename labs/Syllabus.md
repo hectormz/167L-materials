@@ -1,3 +1,9 @@
+---
+header-includes: |
+    \renewcommand\familydefault{\sfdefault}
+    \usepackage[euler]{textgreek}
+---
+
 **UCLA Department of Bioengineering**
 
 **BIOENGR 167L: Bioengineering Laboratory (Spring 2018)**
@@ -24,8 +30,7 @@ LAB 1E (T/R 12-2:50 PM): Ming-Lun Wu (minglwu427\@gmail.com)
 
 LAB 1F (T/R 3-5:50 PM): Akshaya Vagulabooshanam (akshayav\@ucla.edu)
 
-**Office Hours:** Prof. Seidlits - Fridays 10-11 AM or by appointment,
-Eng. V 5121H
+**Office Hours:** Prof. Seidlits - Fridays 10-11 AM or by appointment, Eng. V 5121H
 
 Rebecca Bierman -- TBD
 
@@ -112,6 +117,7 @@ Instructions follow:
 15% - Final Lab Report Manuscript
 
 *We expect that the class will be graded on a flat scale:*
+
 - 97+ = A+
 - 93-96 = A
 - 90-92 = A-
@@ -144,11 +150,11 @@ total of 46 points based on the following.
 
 #### 4.1.1. Laboratory Attendance and Performance:
 
--   Pre-lab preparation and quizzes (12 points)
+##### Pre-lab preparation and quizzes (12 points)
 
 Students are expected to be on time to and attend every lab session. *One-question quizzes will be given at the beginning of each lab section on the prelab assignment.* Quiz questions will be based on information provided in lab session protocols, supplemental reading and video content that will be posted on CCLE by 6 PM the previous Friday. Each lab session (Labs 1-12) will be work 1 pt towards your final participation grade. **You must bring lab protocols with you to lab and be prepared to work independently.**
 
--   Working productively and respectfully with my lab partner (6 points)
+##### Working productively and respectfully with my lab partner (6 points)
 
 Your TA will assign you to a lab partner with whom you will work on Labs 1-12 and your independent project. This part of the class is a lesson in learning how to work productively with other people. Please be respectful to your lab partner by engaging fully and making contributing to your team.
 
@@ -160,7 +166,7 @@ In BE167L, the purpose of your Lab Notebook is to record your experiments ***whi
 
 You expected to attend and participate in every lab session. As detailed above, your participation grade will depend largely on your attendance. If you have conflicts with a lab session, you must notify your TA, lab partners and Dr. Seidlits in advance and arrange a time to make-up the lab. Ideally, this will be in another lab session when the lab you need to miss is already being performed. For example, if you will be out on a Monday, try to make-up in the Tuesday session the very next day. If you will be attending another lab session, you must notify the TA for that lab session in addition to your normal TA and Dr. Seidlits. *Please notify us at least 48 hrs in advance so we can ensure lab materials are available.* If it is impossible for you to attend another lab session due to an illness or family emergency, there will be an opportunity for make-ups on **Tues., May 29, 2018**. If you plan to make up a lab on this date, you are required to let your TA and Dr. Seidlits know by Mon., May 21, 2018. If you do end up needing to make-up a lab session, we will re-grade your revised Lab Report (including the missed section) after the make-up lab. ***Revised Lab Reports will be due Sat., June 8 by 8 AM***.
 
-**4.1.2. Experimental Case Studies: **
+#### 4.1.2. Experimental Case Studies:
 
 We will review several recent experiments and papers in the recent literature that relate to the laboratory techniques that will be used. During lecture we will critically analyze and discuss the results and experimental methods used in these papers. To prepare for the discussion you will be required to read the papers before class and turn in a half-page to one-page discussion of the paper online including:
 
