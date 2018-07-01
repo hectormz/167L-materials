@@ -6,7 +6,7 @@ header-includes: |
 
 # UCLA Department of Bioengineering
 
-# BIOENGR 167L: Bioengineering Laboratory (Spring 2018)
+# BIOENGR 167L: Bioengineering Laboratory (Fall 2018)
 
 Instructor:
 ~ Prof. Aaron Meyer (<ameyer@ucla.edu>), 4121G Engineering V
@@ -14,29 +14,25 @@ Instructor:
 Class Hours:
 ~ Lecture (Monday: 8:00–9:50 am, Boelter Hall 5440)
 
-Labs (TBD)
+Lab Hours:
+~ TBD
 
 **Teaching Assistants:**
 
-Head TA: Jesse Liang (<jesse.liang92@gmail.com>)
+- Head TA: Jesse Liang (<jesse.liang92@gmail.com>)
+- LAB 1A (TBD): TBD (TBD@ucla.edu)
+- LAB 1B (TBD): TBD (TBD@ucla.edu)
+- LAB 1C (TBD): TBD (TBD@ucla.edu)
 
-LAB 1A (TBD): TBD (TBD@ucla.edu)
+**Office Hours:**
 
-LAB 1B (TBD): TBD (TBD@ucla.edu)
-
-LAB 1C (TBD): TBD (TBD@ucla.edu)
-
-LAB 1D (TBD): TBD (TBD@ucla.edu)
-
-**Office Hours:** Prof. Meyer - Mondays 4–5 PM or by appointment, Eng. V 4121G
-
-Jesse Liang -- TBD
-
-TAs -- by appointment
+- Prof. Meyer: Mondays 4–5 PM or by appointment, Eng. V 4121G
+- Jesse Liang: TBD
+- TAs: by appointment
 
 **Lab Location:** Labs will always meet in Boelter Hall 7732
 
-**Website: <https://ccle.ucla.edu/course/view/18S-BIOENGR167L-1>**
+**Website: <https://ccle.ucla.edu/course/view/18F-BIOENGR167L-1>**
 
 ## 1. Required Supplies
 
@@ -53,7 +49,7 @@ Harbor, NY. 2005.
 
 McMillan, VE. [Writing Papers in the Biological Sciences, 5th Ed.]{.underline} Boston, MA. Bedford/St. Martin\'s. 2012.
 
-**Personal Protective Equipment (PPE):** Each student is required to bring a lab coat (preferably 100% cotton) and lab notebook to each lab session. PPE can be purchased on campus (AXE Office; 1275 Young Hall or Ackerman Book Store) or online (e.g., <http://www.scrubsunlimited.com/>, amazon). You must bring your PPE with you to Lab 1 and all future labs.
+**Personal Protective Equipment (PPE):** Each student is required to bring a lab coat (preferably 100% cotton) and lab notebook to each lab session. PPE can be purchased on campus (AXE Office; 1275 Young Hall or Ackerman Book Store) or online (e.g., <http://www.scrubsunlimited.com/>, Amazon). You must bring your PPE with you to Lab 1 and all future labs.
 
 **Lab Notebooks:** You must purchase a bound notebook and bring it to every lab session. You will need to maintain records your experiments in your notebook according to the requirements posted on CCLE.
 
@@ -71,11 +67,11 @@ logically sound experimental processes.
 
 ## 3. Safety Requirements for Working in a Laboratory at UCLA
 
-There is an online training courses that must be completed outside of scheduled class time in order to be legally allowed by UCLA Environmental Health & Safety (EH&S) and HSSEAS to be physically present and work in the teaching labs. There are no exceptions -- ***every student must complete these requirements*** in order to continue enrollment in BE167L.
+There is an online training courses that must be completed outside of scheduled class time in order to be legally allowed by UCLA Environmental Health & Safety (EH&S) and HSSEAS to be physically present and work in the teaching labs. There are no exceptions—*every student must complete these requirements* in order to continue enrollment in BE167L.
 
 **Required Training Courses:**
 
-***Before the first laboratory meeting time (Lab 0)*** please have taken the following online class and bring in your certificate to the lab.
+*Before the first laboratory meeting time (Lab 0)* please have taken the following online class and uploaded your certificate to CCLE.
 
 Instructions follow:
 
@@ -85,7 +81,7 @@ Instructions follow:
 4. Find "LAB-LSFC-OL" -- "Lab Safety Fundamentals Course -- Online". Click the "launch" link in the rightmost column to start the course.
 5. Complete the course.
 6. Once you are done with the course, go to the "My Transcript" tab from the worksafe menu. Print your transcript or save a screenshot (showing completion of LAB-LSFC-OL).
-7. **Upload your worksafe transcript to CCLE by Mon., Apr. 9 at 9 AM.**
+7. **Upload your worksafe transcript to CCLE by Lab 0.**
 
 **Do not take course/quiz for others!**
 
@@ -117,8 +113,9 @@ Instructions follow:
 - 60-62, 63-66, 67-69 = D-, D, D+
 - below 60 = F
 
-**4.1. Participation Grade (23%):** Participation is graded out of a
-total of 46 points based on the following.
+### 4.1. Participation Grade (23%)
+
+Participation is graded out of a total of 46 points based on the following.
 
 - Lab Attendance and Performance
     - Lab notebooks (12 points)
@@ -131,19 +128,17 @@ total of 46 points based on the following.
     - Turn in your 1^st^ independent lab proposal and discuss with your TA (2 points)
     - Turn in your final independent lab proposal on time (2 points)
 
-## Details of each component are provided below:
-
 #### 4.1.1. Laboratory Attendance and Performance:
 
 ##### Pre-lab preparation and quizzes (12 points)
 
 Students are expected to be on time to and attend every lab session. *One-question quizzes will be given at the beginning of each lab section on the prelab assignment.* Quiz questions will be based on information provided in lab session protocols, supplemental reading and video content that will be posted on CCLE by 6 PM the previous Friday. Each lab session (Labs 1-12) will be work 1 pt towards your final participation grade. **You must bring lab protocols with you to lab and be prepared to work independently.**
 
-**Working productively and respectfully with my lab partner (6 points):** Your TA will assign you to a lab partner with whom you will work on Labs 1-12 and your independent project. This part of the class is a lesson in learning how to work productively with other people. Please be respectful to your lab partner by engaging fully and making contributing to your team.
+**Working productively and respectfully with my lab partner (6 points):** Your TA will assign you to a lab partner with whom you will work on Labs 1–12 and your independent project. This part of the class is a lesson in learning how to work productively with other people. Please be respectful to your lab partner by engaging fully and making contributing to your team.
 
-**Lab notebooks (12 points)**: In BE167L, the purpose of your Lab Notebook is to record your experiments ***while you are doing them***. You should have an entry for each lab session including your methods and raw data. You can print out and paste in protocols from online; however, you must make notes on any changes in your notebook during your lab session. Your raw data must also be recorded when you get the data during your lab session. Your TA will check your notebook to make sure you have recorded everything during each lab session. Each lab session (Labs 1-12) will be work 1 pt towards your final participation grade.
+**Lab notebooks (12 points)**: In BE167L, the purpose of your Lab Notebook is to record your experiments ***while you are doing them***. You should have an entry for each lab session including your methods and raw data. You can print out and paste in protocols from online; however, you must make notes on any changes in your notebook during your lab session. Your raw data must also be recorded when you get the data during your lab session. Your TA will check your notebook to make sure you have recorded everything during each lab session. Each lab session (Labs 1–12) will be work 1 pt towards your final participation grade.
 
-**Additional information about lab attendance:** You expected to attend and participate in every lab session. As detailed above, your participation grade will depend largely on your attendance. If you have conflicts with a lab session, you must notify your TA, lab partners and Dr. Seidlits in advance and arrange a time to make-up the lab. Ideally, this will be in another lab session when the lab you need to miss is already being performed. For example, if you will be out on a Monday, try to make-up in the Tuesday session the very next day. If you will be attending another lab session, you must notify the TA for that lab session in addition to your normal TA and Dr. Seidlits. *Please notify us at least 48 hrs in advance so we can ensure lab materials are available.* If it is impossible for you to attend another lab session due to an illness or family emergency, there will be an opportunity for make-ups on **Tues., May 29, 2018**. If you plan to make up a lab on this date, you are required to let your TA and Dr. Meyer know by Mon., May 21, 2018. If you do end up needing to make-up a lab session, we will re-grade your revised Lab Report (including the missed section) after the make-up lab. ***Revised Lab Reports will be due Sat., June 8 by 8 AM***.
+**Additional information about lab attendance:** You expected to attend and participate in every lab session. As detailed above, your participation grade will depend largely on your attendance. If you have conflicts with a lab session, you must notify your TA, lab partners and Dr. Meyer in advance and arrange a time to make-up the lab. Ideally, this will be in another lab session when the lab you need to miss is already being performed. For example, if you will be out on a Monday, try to make-up in the Tuesday session the very next day. If you will be attending another lab session, you must notify the TA for that lab session in addition to your normal TA. *Please notify us at least 48 hrs in advance so we can ensure lab materials are available.* If it is impossible for you to attend another lab session due to an illness or family emergency, there will be an opportunity for make-ups during week 9. If you plan to make up a lab on this date, please discuss arrangements with the head TA and Dr. Meyer. If you do end up needing to make-up a lab session, we will re-grade your revised Lab Report (including the missed section) after the make-up lab.
 
 #### 4.1.2. Experimental Case Studies:
 
@@ -175,13 +170,13 @@ There will be three case studies, and each summary paragraph will be worth a max
 The following manuscripts will be evaluated as case studies. PDFs of the papers will be posted on CCLE.
 
 Case Study 1:
-~ Fraley *et al*. A distinctive role for focal adhesion proteins in three-dimensional cell motility. *Nature Cell Biology* **2010**, *12(6),* 598-604.
+~ Fraley *et al*. A distinctive role for focal adhesion proteins in three-dimensional cell motility. *Nature Cell Biology* **2010**, *12(6)*, 598-604.
 
 Case Study 2: 
-~ Shaffer *et al*. Rare cell variability and drug-induced reprogramming as a mode of cancer drug resistance. *Nature*. **2017**, 546(7658): 431–435.
+~ Engler *et al*. Matrix Elasticity Directs Stem Cell Lineage Specification. *Cell* **2006**, *126*, 677–689.
 
 Case Study 3:
-~ Burdick *et al*. Synthesis and orthogonal photopatterning of hyaluronic acid hydrogels with thiol-norbonene chemistry. *Biomaterials* **2013** *34(38),* 9803-9811.
+~ Burdick *et al*. Synthesis and orthogonal photopatterning of hyaluronic acid hydrogels with thiol-norbonene chemistry. *Biomaterials* **2013** *34(38)*, 9803-9811.
 
 #### 4.1.3. Independent Project Proposals:
 
@@ -189,7 +184,7 @@ Labs 13, 14 and 15 will be dedicated to your Independent Project research. More 
 
 ### 4.2. Lab Reports (27%):
 
-There will be **three Lab Report assignments** due throughout the quarter. For Lab Reports assignments, you will use data collected from the labs and answer critical thinking questions about your data. Specific information about the Lab Report requirements will be posted on CCLE. Reports are due by 12 PM on the due date (uploaded to CCLE).
+There will be *three Lab Report assignments* due throughout the quarter. For Lab Reports assignments, you will use data collected from the labs and answer critical thinking questions about your data. Specific information about the Lab Report requirements will be posted on CCLE. Reports are due by 12 PM on the due date (uploaded to CCLE).
 
 Lab Report 1:
 ~ Labs 1-4
@@ -206,7 +201,7 @@ For the final lab report, you will present analysis of your independent lab expe
 
 Although data from your group will be identical, laboratory reports must be worked on and turned in independently. Duplication of text or figures between laboratory reports will result in a zero on the assignment for both parties. Duplication of text or figures from reports from previous years also will result in a zero on the assignment. Slight or moderate variations in word choice, addition of words, word order, or sentence order is also considered duplication. It is just easier to start from scratch, than to work off of another report.
 
-Your final report **will be due during finals week, Thurs., December 13, 2018 at noon.** This will be 15% of your final grade.
+Your final report *will be due during finals week, Thurs., December 13, 2018 at noon.* This will be 15% of your final grade.
 
 ### 4.4. Exams (35%):
 
@@ -228,4 +223,4 @@ Faculty and TAs are required under the UC Policy on Sexual Violence and Sexual H
 
 ## Center for Accessible Education
 
-Students needing academic accommodations based on a disability should contact the Center for Accessible Education (CAE) at (310) 825-1501 or in person at Murphy Hall A255. When possible, students should contact the CAE within the first two weeks of the term as reasonable notice is needed to coordinate accommodations. For more information visit www.cae.ucla.edu.
+Students needing academic accommodations based on a disability should contact the Center for Accessible Education (CAE) at (310) 825-1501 or in person at Murphy Hall A255. When possible, students should contact the CAE within the first two weeks of the term as reasonable notice is needed to coordinate accommodations. For more information visit <http://www.cae.ucla.edu>.
