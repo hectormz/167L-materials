@@ -15,14 +15,14 @@ Class Hours:
 ~ Lecture (Monday: 8:00–9:50 am, Boelter Hall 5440)
 
 Lab Hours:
-~ TBD
+~ MW 12:00–2:50 pm, TR 12:00–2:50 pm, or TR 3:00–5:50 pm
 
 **Teaching Assistants:**
 
 - Head TA: Jesse Liang (<jesse.liang92@gmail.com>)
-- LAB 1A (TBD): TBD (TBD@ucla.edu)
-- LAB 1B (TBD): TBD (TBD@ucla.edu)
-- LAB 1C (TBD): TBD (TBD@ucla.edu)
+- LAB 1A (MW 12:00–2:50 pm): TBD (TBD@ucla.edu)
+- LAB 1B (TR 12:00–2:50 pm): TBD (TBD@ucla.edu)
+- LAB 1C (TR 3:00–5:50 pm): TBD (TBD@ucla.edu)
 
 **Office Hours:**
 
@@ -44,10 +44,10 @@ None. Handouts will be provided as needed and posted on the website.
 
 *Recommended:*
 
-Barker, K. [ At the Bench: A Laboratory Navigator. Updated Ed.]{.underline} Cold Spring Harbor Laboratory Press. Cold Spring
+Barker, K. At the Bench: A Laboratory Navigator. Updated Ed. Cold Spring Harbor Laboratory Press. Cold Spring
 Harbor, NY. 2005.
 
-McMillan, VE. [Writing Papers in the Biological Sciences, 5th Ed.]{.underline} Boston, MA. Bedford/St. Martin\'s. 2012.
+McMillan, VE. Writing Papers in the Biological Sciences, 5th Ed. Boston, MA. Bedford/St. Martin's. 2012.
 
 **Personal Protective Equipment (PPE):** Each student is required to bring a lab coat (preferably 100% cotton) and lab notebook to each lab session. PPE can be purchased on campus (AXE Office; 1275 Young Hall or Ackerman Book Store) or online (e.g., <http://www.scrubsunlimited.com/>, Amazon). You must bring your PPE with you to Lab 1 and all future labs.
 
