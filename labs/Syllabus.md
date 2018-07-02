@@ -81,7 +81,7 @@ Instructions follow:
 4. Find "LAB-LSFC-OL" -- "Lab Safety Fundamentals Course -- Online". Click the "launch" link in the rightmost column to start the course.
 5. Complete the course.
 6. Once you are done with the course, go to the "My Transcript" tab from the worksafe menu. Print your transcript or save a screenshot (showing completion of LAB-LSFC-OL).
-7. **Upload your worksafe transcript to CCLE by Lab 0.**
+7. **Upload your worksafe transcript to CCLE by Lab 1.**
 
 **Do not take course/quiz for others!**
 
