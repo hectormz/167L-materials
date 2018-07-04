@@ -168,7 +168,7 @@ Supplies
 Equipment 
 ----------
 
--   Oven at 60 *◦* C
+-   Oven at 60dC
 
 -   Vacuum dessicator
 
