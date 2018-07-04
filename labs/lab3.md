@@ -229,26 +229,26 @@ Safety
 14. Using the equations below, calculate the degree of labeling of your
     fluorescein-BSA.
 
-> **ε** = Molar extinction coefficient
->
-> Molar extinction coefficient of BSA: **ε**~BSA~ = 43,824M^-1^cm^-1\ ^
->
-> Molar extinction coefficient of Fluorescein: **ε**~Fl~ = 70,000
-> M^-1^cm^-1\ ^
->
-> A~max~ = A~494~ for this experiment
->
-> CF = Correction factor = 0.30 for this experiment (CF of plain
-> fluorescein)
->
-> *A*^280^ -- (*A*^max^ ⋅ *CF*)
+**ε** = Molar extinction coefficient
+
+Molar extinction coefficient of BSA: **ε**~BSA~ = 43,824M^-1^cm^-1\ ^
+
+Molar extinction coefficient of Fluorescein: **ε**~Fl~ = 70,000
+M^-1^cm^-1\ ^
+
+A~max~ = A~494~ for this experiment
+
+CF = Correction factor = 0.30 for this experiment (CF of plain
+fluorescein)
+
+*A*^280^ -- (*A*^max^ $\times$ *CF*)
 
 Protein Concentration (M) =
 
-> ∑ *BSA*
->
-> *A*^max^ of labeled protein
+∑ *BSA*
+
+*A*^max^ of labeled protein
 
 Mol of fluorescein per mol of protein =
 
-> ∑*~Fl~* ⋅ protein concentration (M)
+∑*~Fl~* $\times$ protein concentration (M)
