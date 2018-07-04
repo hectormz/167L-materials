@@ -251,7 +251,7 @@ complete this lab efficiently.
 3.  Dispense 25*µL* of each standard from your TA (DO NOT take more than necessary) into the appropriate well
 4.  Dispense 25*µL* of each of your unknown protein extract samples into the appropriate well.
 5.  Add 200*µL* of WR to each well and mix on the shaker.
-6.  Cover and incubate at 37 *◦* C for 30 minutes. Cool the well plate to room temperature
+6.  Cover and incubate at 37℃ for 30 minutes. Cool the well plate to room temperature
 7. Record the absorbance of each well and record the data related to your wells.
 8. At this point please also get data from two other groups, when you report your data, you will use your group plus two other groups data for statistical analysis. Don't forget during your analysis that your protein lysate is from two well!
 

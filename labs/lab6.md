@@ -91,30 +91,22 @@ Growth kinetics
 >
 > **3.1 Preparation **
 
-Reagents  {#reagents .ListParagraph}
+Reagents
 =========
 
 -   Complete medium from previous lab
-
 -   Sterile DPBS from previous lab
-
 -   Trypsin
-
 -   Your 6 well plate and 1 T25 flask of cells from the previous lab
 
-Supplies  {#supplies .ListParagraph}
+Supplies
 =========
 
 -   Serological pipettes of 5*mL* to 25*mL* in the BSC
-
--   Pipettes and tips for 20 *−* 200*µL*
-
+-   Pipettes and tips for 20 -- 200 *µL*
 -   4 15*mL* centrifuge tubes
-
 -   4 microcentrifuge tubes
-
 -   1 new T25 flask
-
 -   1 6-well cell culture plate
 
 Equipment  {#equipment .ListParagraph}
