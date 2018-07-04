@@ -1,3 +1,9 @@
+---
+header-includes: |
+    \renewcommand\familydefault{\sfdefault}
+    \usepackage[euler]{textgreek}
+---
+
 BE 167L - Bioengineering Laboratory
 
 Lab 8: Growth Kinetics (MTS Assay)
