@@ -29,8 +29,7 @@ Also to lab, bring your lab coat, and a notebook as outlined by the syllabus.
 
 #### 1. Purpose of a lab notebook:
 
-In BE167L, the purpose of your Lab Notebook is to record your experiments *while you are doing them*. You should have an entry for each lab session including your methods and raw data. You can print out and paste in protocols from online; however, you must make notes on any changes in your notebook during your lab session. Your raw data must
-also be recorded when you get the data during your lab session. Your TA will check your notebook to make sure you have recorded everything during each lab session. Each lab session (Labs 1-12) will be work 1 pt towards your final participation grade.
+In BE167L, the purpose of your Lab Notebook is to record your experiments *while you are doing them*. You should have an entry for each lab session including your methods and raw data. You can print out and paste in protocols from online; however, you must make notes on any changes in your notebook during your lab session. Your raw data must also be recorded when you get the data during your lab session. Your TA will check your notebook to make sure you have recorded everything during each lab session. Each lab session (Labs 1-12) will be work 1 pt towards your final participation grade.
 
 **2. Lab notebook example**
 
