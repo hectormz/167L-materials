@@ -241,7 +241,7 @@ Safety
 > CF = Correction factor = 0.30 for this experiment (CF of plain
 > fluorescein)
 >
-> *A*^280^ − (*A*^max^ ⋅ *CF*)
+> *A*^280^ -- (*A*^max^ ⋅ *CF*)
 
 Protein Concentration (M) =
 

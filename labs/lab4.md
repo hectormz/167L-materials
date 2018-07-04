@@ -46,7 +46,7 @@ Reagents
 Supplies 
 =========
 
--   1*.*5*mL −* 2*mL* microcentrifuge tubes
+-   1.5 -- 2 *mL* microcentrifuge tubes
 
 -   20*mL* scintillation vials
 

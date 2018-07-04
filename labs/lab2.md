@@ -88,7 +88,7 @@ Supplies
 Equipment 
 ==========
 
--   Oven at 60 *^◦^* C
+-   Oven at 60℃
 
 -   Vacuum dessicator
 
@@ -141,7 +141,7 @@ Safety
     the vacuum chamber **slowly**. Be careful not to tip the chamber
     again, or you may spill your PDMS since it is not cured yet. Remove
     the lid of the vacuum chamber and place the petri dish of molds in
-    the oven, set to 60 ◦ C. They will be removed by your TA. Make sure
+    the oven, set to 60℃. They will be removed by your TA. Make sure
     your initials are on your petri dishes.
 
 3. Fluorescence Microscopy 
