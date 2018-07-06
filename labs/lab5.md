@@ -4,164 +4,137 @@ header-includes: |
     \usepackage[euler]{textgreek}
 ---
 
-> BE 167L - Bioengineering Laboratory
->
-> Lab 5: Mammalian Cell Culture
+# BE 167L - Bioengineering Laboratory
+
+# Lab 5: Mammalian Cell Culture
 
 Prelab reading 
 ===============
 
-> Mammalian cell culture is one of the most essential tools in the areas
-> of biotechnology and cell biology. In the following set of labs, you
-> will learn how to culture a widely used cell line, 3T3 fibroblasts.
->
-> In general, mammalian cells are cultured on plastic surfaces often
-> called "tissue culture plastic" or "tissue culture polystyrene". You
-> may see petri dishes or multi-well dishes made of polystyrene that are
-> not intended for tissue culture, such as those used in earlier labs
-> for PDMS stamping or other storage and uses. If they are intended for
-> tissue culture, they will be marked as "tissue culture treated" and
-> they will be pre-sterilized. Be aware of the difference when gathering
-> or ordering your supplies. Cells will not adhere to non-treated
-> polystyrene.
->
-> Cells are cultured, or expanded (grown to increase their numbers for
-> use in experiments) most commonly in tissue culture flasks with canted
-> (bent) necks. You will see them in different sizes and referred to as,
-> for example "T75" or "T25" flasks. The number indicates the surface
-> area available for cells to adhere. T75 flasks have 75cm^2^ of
-> culturing surface area while T25 flasks have 25cm^2^. It is useful to
-> know what the surface area is, so that when you count your cells, you
-> know what the density of the cells is. The density allows you to make
-> comparisons between culture conditions that may have been different
-> scales. For example, seeding a T75 flask with 1 million cells in it
-> means a cell density of 13,333cells/cm2. What is the equivalent number
-> of cells you can put into a T25 flask so that the cells feel the same
-> cell density condition? A 6-well plate has 6 wells, each with a
-> surface area of 9.6cm2. How many cells would you put into each of
-> these wells for a similar cell density?
->
-> Different types of cells expand or proliferate at different rates.
-> Many stem cells may take several days to double in number and may
-> change their doubling time depending on how densely they are spaced.
-> For instance, when they become too dense, a phenomenon called *contact
-> inhibition* may cause them to stop proliferating. Also, if they are
-> particularly sensitive, a very sparse seeding density may prevent them
-> from receiving the right intercellular signals to proliferate at the
-> standard rate. You will calculate the exact doubling time for your
-> conditions and cell type by counting them at different time points.
-> Knowing the doubling time and appropriate seeding densities (density
-> of cells when re- plating after passaging) can help you to plan and
-> prepare for experiments appropriately and efficiently by knowing how
-> many cells you will have by a certain time and how many you need to
-> start with.
->
-> Many mammalian cells are "adhesion dependent", meaning they need to be
-> attached to a substrate and spread out using focal adhesions and other
-> ways of attachment. The hydrophilic surface treatment of polystyrene
-> is often adequate for their attachment. Some mammalian cells are not
-> adhesion dependent and may be cultured in flasks or wells that are not
-> treated for adhesion, like hematopoietic stem cells or B-cells of the
-> immune system that naturally remain detached. They remain suspended in
-> the medium and must be collected by centrifugation. Other cell types
-> are adhesion dependent, but require more than the typical tissue
-> culture treatment of polystyrene. For example, some neuronal cell
-> types are typically cultured on surfaces that are coated with proteins
-> or amino-acids like gelatin or collagen, or lysine to improve their
-> adhesion to the surface, otherwise they are easily detached just by
-> bumping or shaking. You may notice many options for tissue culture
-> treatments when looking at flasks and plates, and this is why. Be
-> aware of your cell type and what it prefers.
->
-> The medium that cells are cultured in is specially formulated for each
-> cell type. In general, it starts with a basic nutrient medium with a
-> pH indicator and buffering salts. You may add serum, which contains a
-> wide range of proteins and enzymes to help the cells adhere and
-> proliferate, as well as antibiotics to keep the medium bacteria-free
-> while culturing. This is also where researchers may modify culture
-> conditions, by changing the contents or ratios of contents in the
-> medium (adding growth factors, changing the pH, adding small molecule
-> drugs to the medium) to change the behavior. Refer to your lecture
-> notes on the specific contents of your 3T3 cell medium for basic
-> growth conditions and maintenance of the cell line.
->
-> Oxygen is important for keeping the cells alive. They get this from
-> dissolved oxygen in the medium, which diffuses into the medium from
-> the air. There is a rough volume of medium recommended for the size of
-> your culturing container so that the thickness of the medium layer
-> above the cells allows adequate oxygen diffusion to the cells. Too
-> much medium may reduce the oxygen levels where the cells are at the
-> bottom, suffocating them. Too little medium may allow too much oxygen
-> or quick evaporation and dry patches where cells may die. Always make
-> sure your cells have the right amount of medium for the vessel size.
->
-> The medium must be replenished on a regular basis. You will take out
-> the old medium and put in fresh medium. Think of it as their food, and
-> once they use up the nutrients in the medium, they need to be fed
-> again. You are also removing accumulated waste products. Many
-> components in the medium, such as components of the serum, degrade
-> quickly under physiological conditions like those in the incubator.
-> This is why serum is stored in the freezer, and the complete medium is
-> stored in the fridge and lasts only a month in the fridge. Once it is
-> warmed up and stored in the incubator with cells, components begin to
-> degrade even quicker, so you must replenish those by changing the
-> medium. It is also a good idea to warm up only the amount of complete
-> medium that you plan on using on a given day, to avoid degrading the
-> whole bottle.
->
-> Your medium contains a buffer to maintain the 7.4 pH. This buffer
-> relies on CO~2~ to keep it from releasing into the atmosphere and
-> becoming more basic (turning purple). The incubator has a CO~2~ sensor
-> and injects CO~2~ from a tank to keep the level at 5%, which is the
-> level of CO~2~ in your body and what is needed to maintain the pH of
-> the medium. The purpose of this tray is to keep the humidity in the
-> incubator at \~100%. This keeps your medium from evaporating during
-> the culture period. If you notice that you have less media in your
-> flask than you put in, check the water pan, it is probably empty. The
-> humidity is also important for the type of CO~2~ sensor in the
-> incubators. If the humidity is not high enough, the sensors become
-> inaccurate and will not keep the correct CO~2~ levels, which will
-> negatively affect the pH of your medium. Every time you open the
-> incubator, the humidity goes down and the CO~2~ level drops. The
-> longer you leave it open and the wider you open the door and the more
-> turbulence you create when you open and close it, the closer it gets
-> to the room air. An incubator that starts with the low humidity of the
-> room can take 3-4 hours to reach full humidity, which means that it
-> can take 3-4 hours for the CO~2~ sensor to work properly. Keep the
-> doors closed. Open and close them gently, and only open them as wide
-> as you need.
->
-> Cells are living things and can be shocked by quick changes in their
-> environment. When changing the medium or passaging, try to warm up
-> their new environment before putting them in it. Often you will see
-> researchers put the fresh medium in the new flask and put it in the
-> incubator to adjust the CO~2~ levels and temperature of the medium
-> while trypsinizing and counting the cells. If they have to keep the
-> cells out of the incubator, they might keep them in a capped tube so
-> that the atmospheric air won't continuously change the pH of the
-> medium they're in, or keep them in PBS and reduce their temperature by
-> placing them on ice so that their metabolic needs are slowed. It is
-> important to know what conditions affect the components of your medium
-> and your cells so that you can take the proper precautions when
-> working with them. Setting up experiments can take longer than you
-> think! Don't let your cells wither away in the biosafety hood while
-> you do calculations and pipette solutions. It can take as little as 30
-> minutes for the pH of your cell culture medium to increase to toxic
-> levels sitting on the counter or under the microscope without the
-> CO~2~ environment of the incubator.
->
-> This is the first in a series of cell culture labs in which you will
-> learn many ways to quantify cellular behavior and growth kinetics. An
-> essential laboratory skill to cultivate is the ability to perform
-> experiments in parallel and plan ahead. Each lab period you should be
-> prepared to passage your cells to keep them alive and proliferating
-> for use in the next lab, while also performing the experiments of the
-> current lab. In this first lab you will learn how to prepare your cell
-> culture reagents, how to work in a Biological Safety Cabinet with
-> cells, and how to count and passage your cells for continuous
-> proliferation. You will prepare flasks and plates of cells for the
-> next lab in appropriate quantities for estimating confluency and basic
-> hemocytometer cell counting.
+Mammalian cell culture is one of the most essential tools in biotechnology and cell biology. In the following set of labs, you
+will learn how to culture a widely used cell line, 3T3 fibroblasts.
+
+In general, mammalian cells are cultured on plastic surfaces often called "tissue culture plastic" or "tissue culture polystyrene". You
+may see petri dishes or multi-well dishes made of polystyrene that are not intended for tissue culture, such as those used in earlier labs
+for PDMS stamping or other storage and uses. If they are intended for tissue culture, they will be marked as "tissue culture treated" and
+they will be pre-sterilized. Be aware of the difference when gathering or ordering your supplies. Cells will not adhere to non-treated
+polystyrene.
+
+Cells are cultured, or expanded (grown to increase their numbers for use in experiments) most commonly in tissue culture flasks with canted
+(bent) necks. You will see them in different sizes and referred to as, for example "T75" or "T25" flasks. The number indicates the surface
+area available for cells to adhere. T75 flasks have 75cm^2^ of culturing surface area while T25 flasks have 25cm^2^. It is useful to
+know what the surface area is, so that when you count your cells, you know what the density of the cells is. The density allows you to make
+comparisons between culture conditions that may have been different scales. For example, seeding a T75 flask with 1 million cells in it
+means a cell density of 13,333cells/cm2. What is the equivalent number of cells you can put into a T25 flask so that the cells feel the same
+cell density condition? A 6-well plate has 6 wells, each with a surface area of 9.6cm2. How many cells would you put into each of
+these wells for a similar cell density?
+
+Different types of cells expand or proliferate at different rates. Many stem cells may take several days to double in number and may
+change their doubling time depending on how densely they are spaced. For instance, when they become too dense, a phenomenon called *contact
+inhibition* may cause them to stop proliferating. Also, if they are particularly sensitive, a very sparse seeding density may prevent them
+from receiving the right intercellular signals to proliferate at the standard rate. You will calculate the exact doubling time for your
+conditions and cell type by counting them at different time points. Knowing the doubling time and appropriate seeding densities (density
+of cells when re- plating after passaging) can help you to plan and prepare for experiments appropriately and efficiently by knowing how
+many cells you will have by a certain time and how many you need to start with.
+
+Many mammalian cells are "adhesion dependent", meaning they need to be attached to a substrate and spread out using focal adhesions and other
+ways of attachment. The hydrophilic surface treatment of polystyrene is often adequate for their attachment. Some mammalian cells are not
+adhesion dependent and may be cultured in flasks or wells that are not treated for adhesion, like hematopoietic stem cells or B-cells of the
+immune system that naturally remain detached. They remain suspended in the medium and must be collected by centrifugation. Other cell types
+are adhesion dependent, but require more than the typical tissue culture treatment of polystyrene. For example, some neuronal cell
+types are typically cultured on surfaces that are coated with proteins or amino-acids like gelatin or collagen, or lysine to improve their
+adhesion to the surface, otherwise they are easily detached just by bumping or shaking. You may notice many options for tissue culture
+treatments when looking at flasks and plates, and this is why. Be aware of your cell type and what it prefers.
+
+The medium that cells are cultured in is specially formulated for each
+cell type. In general, it starts with a basic nutrient medium with a
+pH indicator and buffering salts. You may add serum, which contains a
+wide range of proteins and enzymes to help the cells adhere and
+proliferate, as well as antibiotics to keep the medium bacteria-free
+while culturing. This is also where researchers may modify culture
+conditions, by changing the contents or ratios of contents in the
+medium (adding growth factors, changing the pH, adding small molecule
+drugs to the medium) to change the behavior. Refer to your lecture
+notes on the specific contents of your 3T3 cell medium for basic
+growth conditions and maintenance of the cell line.
+
+Oxygen is important for keeping the cells alive. They get this from
+dissolved oxygen in the medium, which diffuses into the medium from
+the air. There is a rough volume of medium recommended for the size of
+your culturing container so that the thickness of the medium layer
+above the cells allows adequate oxygen diffusion to the cells. Too
+much medium may reduce the oxygen levels where the cells are at the
+bottom, suffocating them. Too little medium may allow too much oxygen
+or quick evaporation and dry patches where cells may die. Always make
+sure your cells have the right amount of medium for the vessel size.
+
+The medium must be replenished on a regular basis. You will take out
+the old medium and put in fresh medium. Think of it as their food, and
+once they use up the nutrients in the medium, they need to be fed
+again. You are also removing accumulated waste products. Many
+components in the medium, such as components of the serum, degrade
+quickly under physiological conditions like those in the incubator.
+This is why serum is stored in the freezer, and the complete medium is
+stored in the fridge and lasts only a month in the fridge. Once it is
+warmed up and stored in the incubator with cells, components begin to
+degrade even quicker, so you must replenish those by changing the
+medium. It is also a good idea to warm up only the amount of complete
+medium that you plan on using on a given day, to avoid degrading the
+whole bottle.
+
+Your medium contains a buffer to maintain the 7.4 pH. This buffer
+relies on CO~2~ to keep it from releasing into the atmosphere and
+becoming more basic (turning purple). The incubator has a CO~2~ sensor
+and injects CO~2~ from a tank to keep the level at 5%, which is the
+level of CO~2~ in your body and what is needed to maintain the pH of
+the medium. The purpose of this tray is to keep the humidity in the
+incubator at \~100%. This keeps your medium from evaporating during
+the culture period. If you notice that you have less media in your
+flask than you put in, check the water pan, it is probably empty. The
+humidity is also important for the type of CO~2~ sensor in the
+incubators. If the humidity is not high enough, the sensors become
+inaccurate and will not keep the correct CO~2~ levels, which will
+negatively affect the pH of your medium. Every time you open the
+incubator, the humidity goes down and the CO~2~ level drops. The
+longer you leave it open and the wider you open the door and the more
+turbulence you create when you open and close it, the closer it gets
+to the room air. An incubator that starts with the low humidity of the
+room can take 3-4 hours to reach full humidity, which means that it
+can take 3-4 hours for the CO~2~ sensor to work properly. Keep the
+doors closed. Open and close them gently, and only open them as wide
+as you need.
+
+Cells are living things and can be shocked by quick changes in their
+environment. When changing the medium or passaging, try to warm up
+their new environment before putting them in it. Often you will see
+researchers put the fresh medium in the new flask and put it in the
+incubator to adjust the CO~2~ levels and temperature of the medium
+while trypsinizing and counting the cells. If they have to keep the
+cells out of the incubator, they might keep them in a capped tube so
+that the atmospheric air won't continuously change the pH of the
+medium they're in, or keep them in PBS and reduce their temperature by
+placing them on ice so that their metabolic needs are slowed. It is
+important to know what conditions affect the components of your medium
+and your cells so that you can take the proper precautions when
+working with them. Setting up experiments can take longer than you
+think! Don't let your cells wither away in the biosafety hood while
+you do calculations and pipette solutions. It can take as little as 30
+minutes for the pH of your cell culture medium to increase to toxic
+levels sitting on the counter or under the microscope without the
+CO~2~ environment of the incubator.
+
+This is the first in a series of cell culture labs in which you will
+learn many ways to quantify cellular behavior and growth kinetics. An
+essential laboratory skill to cultivate is the ability to perform
+experiments in parallel and plan ahead. Each lab period you should be
+prepared to passage your cells to keep them alive and proliferating
+for use in the next lab, while also performing the experiments of the
+current lab. In this first lab you will learn how to prepare your cell
+culture reagents, how to work in a Biological Safety Cabinet with
+cells, and how to count and passage your cells for continuous
+proliferation. You will prepare flasks and plates of cells for the
+next lab in appropriate quantities for estimating confluency and basic
+hemocytometer cell counting.
 
 Mammalian cell culture 
 =======================
@@ -192,51 +165,31 @@ Mammalian cell culture
 >
 > **2.1 Preparation **
 
-Reagents  {#reagents .ListParagraph}
-=========
+Reagents
 
--   High Glucose, DMEM
+- High Glucose, DMEM
+- DPBS -- with calcium and magnesium
+- Trypsin
+- Fetal Bovine Serum
+- Penicillin - Streptomycin
 
--   DPBS -- with calcium and magnesium
+Supplies
 
--   Trypsin
+- Micropipette tips
+- 5 mL serological pipette
+- 2 mL serological pipette
+- 15 mL centrifuge tube
+- 50 mL centrifuge tube
+- microcentrifuge tubes
+- 1 T25 and 1 6 well plate
 
--   Fetal Bovine Serum
+Equipment
 
--   Penicillin - Streptomycin
-
-Supplies  {#supplies .ListParagraph}
-=========
-
--   Micropipette tips
-
--   5 mL serological pipette
-
--   2 mL serological pipette
-
--   15 mL centrifuge tube
-
--   50 mL centrifuge tube
-
--   microcentrifuge tubes
-
--   1 T25 and 1 6 well plate
-
-Equipment  {#equipment .ListParagraph}
-==========
-
--   Biological safety cabinet (BSC)
-
--   Pipet-aid -- When using these, avoid aspirating liquid through the
-    pipet and into the attachment head. If this does happen, **please
-    inform your TA immediately.** It can be easily fixed if dealt with
-    at the time.
-
--   Phase contrast microscope
-
--   Centrifuge
-
--   CO~2~ cell culture incubator
+- Biological safety cabinet (BSC)
+- Pipet-aid -- When using these, avoid aspirating liquid through the pipet and into the attachment head. If this does happen, **please inform your TA immediately.** It can be easily fixed if dealt with at the time.
+- Phase contrast microscope
+- Centrifuge
+- CO~2~ cell culture incubator
 
 Biological Agent Safety  {#biological-agent-safety .ListParagraph}
 ========================

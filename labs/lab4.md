@@ -4,9 +4,9 @@ header-includes: |
     \usepackage[euler]{textgreek}
 ---
 
-> BE 167L - Bioengineering Laboratory
->
-> Lab 4: Microcontact Printing and Contact Angle Measurements
+# BE 167L - Bioengineering Laboratory
+
+# Lab 4: Microcontact Printing and Contact Angle Measurements
 
 1. Prelab reading 
 ==================
@@ -36,39 +36,27 @@ Reagents
 =========
 
 -   Fluorescein-BSA from Lab 3
-
 -   Phosphate buffered saline (PBS) pH 7.4
-
 -   Deionized (DI) water
-
 -   Your PDMS stamps in the molds from lab 2
 
 Supplies 
 =========
 
 -   1.5 -- 2 *mL* microcentrifuge tubes
-
 -   20*mL* scintillation vials
-
 -   A large or medium petri dishes for storing stamps is desired
-
 -   1 6-well non-sterile, non-tissue culture plate
-
 -   Razor blade or scalpel, thin spatula
-
 -   Aluminum foil
-
 -   Plastic transfer pipettes
-
 -   Pipettes and tips
 
 Equipment 
 ==========
 
 -   Plasma Cleaner
-
 -   Fluorescent Microscope
-
 -   Camera (phone or otherwise)
 
 Safety 

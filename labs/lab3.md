@@ -4,9 +4,9 @@ header-includes: |
     \usepackage[euler]{textgreek}
 ---
 
-> BE 167L - Bioengineering Laboratory
->
-> Lab 3: Bioconjugation
+# BE 167L - Bioengineering Laboratory
+
+# Lab 3: Bioconjugation
 
 1. Bioconjugation 
 ==================

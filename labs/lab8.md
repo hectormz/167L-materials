@@ -4,9 +4,9 @@ header-includes: |
     \usepackage[euler]{textgreek}
 ---
 
-BE 167L - Bioengineering Laboratory
+# BE 167L - Bioengineering Laboratory
 
-Lab 8: Growth Kinetics (MTS Assay)
+# Lab 8: Growth Kinetics (MTS Assay)
 
 Prelab reading 
 ===============

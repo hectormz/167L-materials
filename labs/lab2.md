@@ -4,9 +4,9 @@ header-includes: |
     \usepackage[euler]{textgreek}
 ---
 
-> BE 167L - Bioengineering Laboratory
->
-> Lab 2: Laser Cutter, Fluorescent Microscopy, and Replica Molding
+# BE 167L - Bioengineering Laboratory
+
+# Lab 2: Laser Cutter, Fluorescent Microscopy, and Replica Molding
 
 1. Replica Molding 
 ===================
@@ -37,20 +37,12 @@ header-includes: |
 > commonly used for replica molding. Any elastic polymer could be used
 > for replica molding. PDMS has many desirable characteristics:
 
--   It is moderately stiff (shear mod.= 0*.*25*M Pa*, Young's =
-    0*.*5*MPa*)
-
--   It conforms to a surface with atomic level contact (good seals,
-    microfluidic devices)
-
+-   It is moderately stiff (shear mod.= 0*.*25*M Pa*, Young's = 0*.*5*MPa*)
+-   It conforms to a surface with atomic level contact (good seals, microfluidic devices)
 -   It is non-toxic and commercially available (\$80/kg)
-
 -   It is optically transparent to 300*nm*
-
 -   It is hydrophobic, but can be made hydrophilic with oxygen plasma
-
--   It can adhere and seal reversibly, or irreversibly after oxidation,
-    to many different surfaces
+-   It can adhere and seal reversibly, or irreversibly after oxidation, to many different surfaces
 
 > You will be using an acrylic mold in a polystyrene petri dish. Many
 > times you will see replica molds made on silicon wafers with patterns
@@ -69,27 +61,21 @@ Reagents
 =========
 
 -   Sylgard 184 base
-
 -   Sylgard 184 curing agent
 
 Supplies 
 =========
 
 -   Plastic transfer pipettes
-
 -   Weigh boats
-
 -   Acrylic stencil molds in small petri dishes
-
 -   1 large (100cm) plastic petri dish
-
 -   50 mL conical tube
 
 Equipment 
 ==========
 
 -   Oven at 60℃
-
 -   Vacuum dessicator
 
 Safety 

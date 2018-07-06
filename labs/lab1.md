@@ -69,69 +69,40 @@ Equipment
 2.  Dissolve your MEM powder in 12 mL's of DI water into a 15mL conical tube and label this tube as **buffer**.
 3.  Take out 2.5 mL's of your solution and place it into a new 15 mL conical tube, do this again so that you have a total of 3 conical tubes
 4.  Label one tube **acid+**, and the other **base+**.
-
-5.  To your **buffer** solution add 25 mg of NaHCO3 then repeat steps 3
-    and 4, except label these tubes **buffer acid+**, and **buffer
-    base+.**
-
-6.  To your tubes labelled **acid+** add 100 uL of the HCl solution
-    provided by your TA, and to your tubes labelled **base+** add 100 uL
-    of the NaOH solution provided by your TA. Record any observations at
-    this time.
-
-7.  Measure the pH of each solution using the pH meter and record
-    measured values in your lab notebook. Consult your TA for further
-    guidance if necessary.
+5.  To your **buffer** solution add 25 mg of NaHCO3 then repeat steps 3 and 4, except label these tubes **buffer acid+**, and **buffer base+.**
+6.  To your tubes labelled **acid+** add 100 uL of the HCl solution provided by your TA, and to your tubes labelled **base+** add 100 uL of the NaOH solution provided by your TA. Record any observations at this time.
+7.  Measure the pH of each solution using the pH meter and record measured values in your lab notebook. Consult your TA for further guidance if necessary.
 
 2. Plate Reader and Serial Dilutions
 ====================================
 
-In addition to creating solutions, you will often find that you need to
-dilute them prior to use. In this section of the lab, you will practice
-generating serial dilutions of your previously made buffer. In addition,
-you will take absorbance readings of your serial dilutions to verify
-your technique as well as generate data to perform statistical analysis
-on.
+In addition to creating solutions, you will often find that you need to dilute them prior to use. In this section of the lab, you will practice
+generating serial dilutions of your previously made buffer. In addition, you will take absorbance readings of your serial dilutions to verify
+your technique as well as generate data to perform statistical analysis on.
 
 **2.1 Preparation**
 
-Reagents 
-=========
+Reagents
 
 -   DI Water
 -   Buffer from Part 1
 
-Supplies 
-=========
+Supplies
 
 -   96 well plate (shared with another group)
 -   P200 pipette
 
-Equipment 
-==========
+Equipment
 
 -   Plate reader
 
 2.2 Procedure 
 --------------
 
-**1.** You and your partner will share a 96 well plate with another
-group be sure to properly record which wells belong to your group.
-
-**2.** You and your partner will generate 4 serial dilutions using your
-buffered solution. Each step of your dilution should cut your
-concentration in half (a 2x dilution), and the final volume in each well
-should be 200 uL. You will perform 4 steps for each dilution which
-should result in 4 wells with the following concentrations (1x, .5x,
-.25x, .125x). For further clarification consult the posted video then
-fill in the attached template with your dilution scheme.
-
-**3.** In addition pipette 100 uL of your **acid+** and **basic+** into
-four additional wells respectively.
-
-**4.** After you have finished pipetting take your plate to the TA to
-have it run on the plate reader, and record the absorbance values in
-your lab notebook.
+**1.** You and your partner will share a 96 well plate with another group be sure to properly record which wells belong to your group.
+**2.** You and your partner will generate 4 serial dilutions using your buffered solution. Each step of your dilution should cut your concentration in half (a 2x dilution), and the final volume in each well should be 200 uL. You will perform 4 steps for each dilution which should result in 4 wells with the following concentrations (1x, .5x, .25x, .125x). For further clarification consult the posted video then fill in the attached template with your dilution scheme.
+**3.** In addition pipette 100 uL of your **acid+** and **basic+** into four additional wells respectively.
+**4.** After you have finished pipetting take your plate to the TA to have it run on the plate reader, and record the absorbance values in your lab notebook.
 
 ![](media/image2.png){width="7.503472222222222in"
 height="4.986805555555556in"}
@@ -151,23 +122,19 @@ Reagents
 =========
 
 -   Water
-
 -   Solution of 10*µm* beads
 
 Supplies 
 =========
 
 -   1.5 mL – 2 mL microcentrifuge tube
-
 -   P1000 pipette
-
 -   P200 pipette
 
 Equipment 
 ==========
 
 -   Inverted microscope
-
 -   Hemocytometer with glass coverslip
 
 3.2 Procedure 

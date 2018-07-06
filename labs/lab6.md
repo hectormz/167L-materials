@@ -4,38 +4,27 @@ header-includes: |
     \usepackage[euler]{textgreek}
 ---
 
-> BE 167L - Bioengineering Laboratory
->
-> Lab 6: Gauging Confluency and Growth Kinetics
+# BE 167L - Bioengineering Laboratory
 
-Prelab reading 
-===============
+# Lab 6: Gauging Confluency and Growth Kinetics
 
-> **In addition to the text below, please read the ATCC Animal Cell
-> Culture Guide posted on CCLE. **
+## Prelab reading
 
-Being able to look at a flask of cells and estimate a rough order of
-magnitude for the number of cells is a useful skill. You may be growing
-cells for an experiment and need to estimate how long it will take to
-grow enough cells. Also estimating the confluency of a flask and how
-much time you might have before they become confluent is important for
-knowing when to passage cells before they become too confluent. Once
-they become confluent they may stop dividing and enter a different phase
-of the cell cycle, which may not be desirable for your experiment. You
-would typically passage cells when they reach 80-90% confluency. 100%
-confluency means that cells cover 100% of the available surface area.
-Look at the figures below for an idea of what cells look like at
-different densities on a culture surface.
+**In addition to the text below, please read the ATCC Animal Cell Culture Guide posted on CCLE.**
+
+Being able to look at a flask of cells and estimate a rough order of magnitude for the number of cells is a useful skill. You may be growing
+cells for an experiment and need to estimate how long it will take to grow enough cells. Also estimating the confluency of a flask and how
+much time you might have before they become confluent is important for knowing when to passage cells before they become too confluent. Once
+they become confluent they may stop dividing and enter a different phase of the cell cycle, which may not be desirable for your experiment. You
+would typically passage cells when they reach 80-90% confluency. 100% confluency means that cells cover 100% of the available surface area.
+Look at the figures below for an idea of what cells look like at different densities on a culture surface.
 
 ![](media/image1.jpg){width="5.944445538057742in"
 height="2.9722222222222223in"}
 
-Figure 1: Different densities of cells are shown in this series of
-images from a phase contrast microscope in the teaching lab. These cells
-were cultured in tissue culture flasks you will be using and were
-counted before and after plating using a hemocytometer. The estimated
-confluencies are given in percentages and the rough number of cells per
-*cm*^2^ are given in parentheses.
+Figure 1: Different densities of cells are shown in this series of images from a phase contrast microscope in the teaching lab. These cells
+were cultured in tissue culture flasks you will be using and were counted before and after plating using a hemocytometer. The estimated
+confluencies are given in percentages and the rough number of cells per *cm*^2^ are given in parentheses.
 
 Gauging confluency 
 ===================
@@ -112,24 +101,17 @@ Supplies
 Equipment  {#equipment .ListParagraph}
 ==========
 
--   Biological safety cabinet (BSC)
-
--   Pipet-aid
-
--   Phase contrast microscope
-
--   Centrifuge
-
--   *CO*~2~ cell culture incubator
-
--   Hemocytometer and cell counter
+- Biological safety cabinet (BSC)
+- Pipet-aid
+- Phase contrast microscope
+- Centrifuge
+- CO~2~ cell culture incubator
+- Hemocytometer and cell counter
 
 Safety  {#safety-1 .ListParagraph}
 =======
 
-> Wear your safety glasses, gloves, and lab coat. Follow the sterile
-> cell culture techniques you learned in the last lab and be careful of
-> your biohazardous waste disposal procedures.
+Wear your safety glasses, gloves, and lab coat. Follow the sterile cell culture techniques you learned in the last lab and be careful of your biohazardous waste disposal procedures.
 
 Procedure 
 ----------

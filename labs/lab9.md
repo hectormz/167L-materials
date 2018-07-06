@@ -4,10 +4,9 @@ header-includes: |
     \usepackage[euler]{textgreek}
 ---
 
-> BE 167L - Bioengineering Laboratory
+# BE 167L - Bioengineering Laboratory
 
-Lab 9: 3D Encapsulation and Preparing Varied Stiffness Substrates 
-==================================================================
+# Lab 9: 3D Encapsulation and Preparing Varied Stiffness Substrates
 
 1. Prelab reading 
 ------------------
@@ -40,30 +39,20 @@ Reagents
 ---------
 
 -   Your T25 flask from last lab
-
 -   Complete medium from previous lab
-
 -   Sterile DPBS from previous lab
-
 -   Trypsin
-
 -   Sodium alginate
-
 -   0*.*1*M CaCl*~2~ solution
 
 Supplies 
 ---------
 
 -   Pipettes and tips
-
 -   Pipet-aid and serological pipettes
-
 -   microcentrifuge tubes
-
 -   15*mL* conical tubes
-
 -   1 6-well cell culture plate
-
 -   1 T25 flask
 
 Equipment 
@@ -153,23 +142,19 @@ Reagents
 ---------
 
 -   Sylgard 184 base
-
 -   Sylgard 184 curing agent
 
 Supplies 
 ---------
 
 -   Plastic transfer pipettes
-
 -   weigh boats/50 mL conical tube
-
 -   1 24-well plate
 
 Equipment 
 ----------
 
 -   Oven at 60dC
-
 -   Vacuum dessicator
 
 Safety 

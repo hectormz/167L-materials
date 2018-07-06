@@ -4,9 +4,9 @@ header-includes: |
     \usepackage[euler]{textgreek}
 ---
 
-> BE 167L - Bioengineering Laboratory
->
-> Lab 7: Growth Kinetics and Protein Content (BCA Assay)
+# BE 167L - Bioengineering Laboratory
+
+# Lab 7: Growth Kinetics and Protein Content (BCA Assay)
 
 Prelab reading 
 ===============

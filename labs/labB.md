@@ -6,15 +6,15 @@ header-includes: |
 
 # BE 167L - Bioengineering Laboratory
 
-## Lab 11: Variable Substrate Stiffness and Cell Behavior (Part 1)
+# Lab 11: Variable Substrate Stiffness and Cell Behavior (Part 1)
 
-### Prelab reading
+## Prelab reading
 
 You will seed 3T3 cells onto PDMS substrates of varying stiffness as well as onto the regular tissue culture plastic in your 24 well plate. Stiffness of the culturing surface can affect many aspects of cell behavior. Stem cells may be influenced to differentiate into different lineages based on the stiffness. Smooth muscle cells may produce more F-actin or form more focal adhesions on stiffer substrates. Some cells may increase or decrease their proliferation rate or their rate of migration across the surface based on the stiffness.
 
-### Cell seeding
+## Cell seeding
 
-#### Preparation
+### Preparation
 
 **Reagents**
 
@@ -38,7 +38,7 @@ You will seed 3T3 cells onto PDMS substrates of varying stiffness as well as ont
 - Centrifuge
 - Hemocytometer and cell counter
 
-#### Procedure
+### Procedure
 
 1.  Use a microscope to identify which wells you will be using on your 24 well plate. You will want to avoid wells that appear damaged/nonuniform. You may opt to mark these wells with an X to avoid using them.
 2.  Coat each well you will be using (9 wells with PDMS and 3 without) with 150 uL of fibronectin solution. Please do not take more than needed. Let it sit covered for 15-20 minutes in the BSC.
