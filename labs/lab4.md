@@ -65,11 +65,11 @@ In addition to your usual protective equipment, (lab coat, gloves safety glasses
 *Micro-contact printing (µCP)*
 
 1. Fill a 20 mL scintillation vials with tap water. This weight will be used to ensure even contact of your stamp with the substrate.
-2. Soon after removing your stamp \#1 from the plasma cleaner, pipet 100 µL of your Fluorescein-BSA solution onto each "window pane" of your stamp (so 400 µL total). Using the tip of the pipette, spread the protein solutions, so that all the patterns are covered with protein. If you need more solution to cover all of the patterns, pipet more solution onto the surface. Its ok if some solution falls into the trough regions of the surface.
+2. Soon after removing your stamp #1 from the plasma cleaner, pipet 100 µL of your Fluorescein-BSA solution onto each "window pane" of your stamp (so 400 µL total). Using the tip of the pipette, spread the protein solutions, so that all the patterns are covered with protein. If you need more solution to cover all of the patterns, pipet more solution onto the surface. It is ok if some solution falls into the trough regions of the surface.
 3. Shield the stamps from light and allow protein to adsorb to the stamp for 5 minutes.
 4. Take a kimwipe and without touching the top of the stamps remove the fluid (touch the liquid, but not the stamp). Be sure to thoroughly wick fluid from between the features as well.
 5. Let the stamps air dry for a couple minutes you want the surface to be moist but not wet. This is because you do not want excess fluid while stamping, as this will negatively influence your protein stamping.
-6. You will be provided with a 6-well plate. Place the stamp with the features down at the middle of a well. Once the stamp is down you will NOT want to move it. Place the scintillation vial that you prepared on top of the stamp. You will not want to adjust this either. Let the protein transfer from the stamp to the dish for 3 minutes.
+6. You will be provided with a 6-well plate. Place the stamp with the features down at the middle of a well. Once the stamp is down you will not want to move it. Place the scintillation vial that you prepared on top of the stamp. You will not want to adjust this either. Let the protein transfer from the stamp to the dish for 3 minutes.
 7. In a swift, even motion, remove your weight and stamp from the surface. Avoid peeling the stamp as this will result in uneven patterns. By all means necessary do not slide the stamp as this will result in protein shearing and you may not see any features. Remember which well had been stamped.
 8. Look at your dish under the fluorescent microscope to document the pattern transfer and relative intensities of the patterns according to treatment condition and concentration (refer to previous lab protocols for fluorescent microscopy instruction if you need help). Take images that demonstrate a contrast between the protein patterned and un-patterned regions and that illustrate the accuracy of the pattern. Take a minimum of three images at different objective magnifications.
 
@@ -80,14 +80,8 @@ In addition to your usual protective equipment, (lab coat, gloves safety glasses
 3. Using a pipette, place a 10 µL drop of DI water onto each piece of the stamp. Take care to use the plasma treated side of the appropriate piece. You are comparing water contact angle between a plasma treated surface and non-treated surface of PDMS.
 4. Place these stamps on an elevated surface, such as a tube rack or textbook, with a dark solid background behind them.
 5. Using your cell phone camera (or a camera provided by your TA if you do not have one), get close to your samples directly from the side and take a picture with the surface of the stamp as the horizon so that you can measure the angle of the water bead from the surface as accurately as possible. You may take separate pictures of each surface. Refer to the figure below for tips on how to take a good picture for contact angle measurements.
-6.  Repeat steps 3-5 three times with your two surfaces to generate raw data points that you can average. Do this on different spots of the same surface rather than just taking multiple pictures of the same drop. Always use the same size drop.
+6. Repeat steps 3-5 three times with your two surfaces to generate raw data points that you can average. Do this on different spots of the same surface rather than just taking multiple pictures of the same drop. Always use the same size drop.
 
 Note: The surface treatment lasts for only half an hour. Make sure you take pictures of your PDMS stamps right after treatment.
 
 ![**Figure 1**: Try to use a dark background placed close to your drop for good contrast. It is difficult to see the edges in A. Get as perpendicular as possible to your drop surface so that it becomes a horizon line that you can reproduce between different drops and surfaces. Otherwise you may not be able to compare the angles that you measure adequately. Make sure that your drop is in focus so that you can draw a clear angle at the edge of your drops like E and F.](labs/graphics/contact-angle.jpg){width=6in}
-
-
-
-
-
-
