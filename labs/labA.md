@@ -4,6 +4,8 @@ header-includes: |
     \usepackage[euler]{textgreek}
 ---
 
+<!-- TODO: Add control for live/dead cells? -->
+
 # BE 167L - Bioengineering Laboratory
 
 # Lab 10: Evaluating Cell Viability in Hydrogels and Preparing Substrates to Study Cell Behavior
