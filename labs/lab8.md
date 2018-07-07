@@ -19,7 +19,7 @@ You will collect and count your cells from your two seeding conditions from 1 we
 - Complete medium from previous lab
 - Sterile DPBS from previous lab
 - Trypsin
-- Your T25 flask and 96-well plate of 3t3 cells from the previous lab (shared between groups)
+- Your T25 flask and 96-well plate of 3T3 cells from the previous lab (shared between groups)
 - MTS reagent: CellTiter 96 AQeous One Solution Cell Proliferation Assay
 
 **Supplies**
