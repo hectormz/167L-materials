@@ -1,9 +1,3 @@
----
-header-includes: |
-    \renewcommand\familydefault{\sfdefault}
-    \usepackage[euler]{textgreek}
----
-
 # BE 167L - Bioengineering Laboratory
 
 # Lab 9: 3D Encapsulation and Preparing Varied Stiffness Substrates

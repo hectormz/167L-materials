@@ -1,9 +1,3 @@
----
-header-includes: |
-    \renewcommand\familydefault{\sfdefault}
-    \usepackage[euler]{textgreek}
----
-
 # BE 167L - Bioengineering Laboratory
 
 # Lab 11: Variable Substrate Stiffness and Cell Behavior (Part 1)

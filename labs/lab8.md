@@ -1,9 +1,3 @@
----
-header-includes: |
-    \renewcommand\familydefault{\sfdefault}
-    \usepackage[euler]{textgreek}
----
-
 # BE 167L - Bioengineering Laboratory
 
 # Lab 8: Growth Kinetics (MTS Assay)
@@ -71,4 +65,4 @@ You must do this lab in sequence to ensure that you have enough cells for your s
 4. Allow the 96-well plates to incubate with the assay reagent for 1 hour.
 5. Your TA will now take the entire class to the plate reader to read the absorbance's, make sure you record the values associated with your wells.
 
-![](labs/96-well-plate.png){width=7.5in}
+![Plate layout](labs/graphics/96-well-plate.png)

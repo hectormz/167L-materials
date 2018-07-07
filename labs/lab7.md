@@ -1,9 +1,3 @@
----
-header-includes: |
-    \renewcommand\familydefault{\sfdefault}
-    \usepackage[euler]{textgreek}
----
-
 # BE 167L - Bioengineering Laboratory
 
 # Lab 7: Growth Kinetics and Protein Content (BCA Assay)
@@ -255,4 +249,4 @@ complete this lab efficiently.
 7. Record the absorbance of each well and record the data related to your wells.
 8. At this point please also get data from two other groups, when you report your data, you will use your group plus two other groups data for statistical analysis. Don't forget during your analysis that your protein lysate is from two well!
 
-![http://www.cellsignet.com/media/plates/96.jpg](labs/graphics/96-well-plate.png)
+![Plate layout](labs/graphics/96-well-plate.png)
