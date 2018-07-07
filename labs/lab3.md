@@ -14,102 +14,34 @@ header-includes: |
 1.1 Prelab reading 
 -------------------
 
-> Bioconjugation is the creation a covalent bond between molecules, at
-> least one of which is a biological molecule. You will be conjugating a
-> small fluorescent molecule (fluorescein) to a large protein (bovine
-> serum albumin, BSA). Bioconjugate chemistry is useful to the
-> bioengineer because it can allow tagging of biological molecules with
-> something that is easily tracked by different instruments. Things that
-> might usually be difficult to observe or measure (such as location and
-> concentration of specific proteins in a living cell) can become
-> visible under a microscope if you tag it with something that glows or
-> fluoresces. Joining biological molecules to each other (or to chemical
-> molecules that have special functions) can help a researcher study
-> functions of enzymes in different environments or create new
-> biological molecules or cells that may have clinical applications.
->
-> There are many different chemical reactions that are commonly useful
-> when conjugating biological molecules because most of these molecules
-> are composed of similar elements, such as amino acids or sugars. These
-> reactions have been discussed in lecture and represent a tool-box of
-> relatively well-understood mechanisms of forming covalent bonds
-> between specific types of chemical functional groups. Consider them
-> different routes suggested by a GPS for getting from point A (two
-> separate molecules) to point B (covalently joined molecules). There
-> may be other ways, but these are the most common and useful. You will
-> use NHS-fluorescein (N- hydroxysuccinimide attached to a fluorescein
-> molecule) which is quickly and easily conjugated to proteins that
-> contain primary amines (like lysine) in the amino acid sequence,
-> provided that the lysines are accessible in the protein's folded
-> state. Refer to your lecture notes for the mechanism of the reaction.
->
-> The reaction takes place at room temperature just by mixing the
-> molecules together. Because the NHS is a good leaving group it is
-> easily displaced by the amine groups on a protein once they contact
-> each other. You just need to provide the right conditions. Having more
-> NHS-fluorescein than protein ensures that there are enough to easily
-> bump into the available amines on the proteins. Having a reaction
-> buffer (PBS, pH 7.4) which is just slightly basic helps to keep the
-> molecules and reactive groups in the right folded conformation and
-> protonation state for the reaction. One thing to be careful of is to
-> bring the NHS-fluorescein in contact (mix it) with the protein before
-> it reacts with water in the air. Being a good leaving group also makes
-> NHS unstable. NHS-fluorescein is stored in the freezer as a dry
-> powder. Your TA will dissolve it in N,N Dimethylformamide (DMF) which
-> is an organic solvent with little to no water. The NHS should not
-> contact water until it is mixed directly with your protein solution
-> (DMF is miscible with water). To increase the probability of the NHS
-> reacting with your protein rather than the water you should have a
-> relatively high concentration of protein. These ratios and
-> concentrations will be determined for you in this lab, but for future
-> experiments keep these caveats in mind.
->
-> Once sufficient time has passed for the reaction to take place you
-> will purify the fluorescein-BSA conjugate from unreacted and excess
-> NHS and fluorescein. Sephadex is a white powder which is very porous.
-> You will use it to make a small gel filtration column. It has been
-> soaked in PBS, the same solution as your reaction buffer. These
-> particles, when packed together in a tube, can filter out small
-> molecular weight molecules. Think of them as beads that have tiny
-> pores. A tube of packed beads allows small things into its pores base
-> on size, trapping them for a while. Larger molecules pass right by the
-> beads. The sephadex you will use has a specific pore size that traps
-> free fluorescein and NHS, while large molecules, like your protein,
-> pass through the column. Of course if you flush the column long enough
-> with a lot of liquid, eventually everything will come out.
->
-> The degree of labeling on your BSA (how many fluorescent molecules you
-> have on each protein molecule) will affect how strongly fluorescent
-> your protein will be under the microscope. It will also affect the
-> protein's solubility. Moreover, it is an indicator of how well the
-> reaction went. You can calculate the degree of labeling by measuring
-> the absorbance of the solution at two different wavelengths. Proteins
-> most efficiently absorb light with a wavelength of 280*nm*.
-> Fluorescein absorbs most at 494*nm*. Measuring the absorbance at these
-> two wavelengths can give you the relative concentrations of protein to
-> fluorescein in your solution, scaled by their molar absorptivity or
-> extinction coefficient. The equations for this calculation are given
-> to you in the procedures below. If you look up the structure of your
-> protein, you can identify how many sites on the protein are
-> potentially able to react with the NHS-fluorescein, for example 10. If
-> the reaction was 100% efficient, you should calculate 10 fluorescein
-> molecules per protein. You will likely have a lower ratio, but
-> hopefully more than 1, meaning you have at least 1 fluorescein per
-> protein and all your proteins are labeled.
->
-> **Optional pre-lab readings:**
->
-> ***Highly Recommended:*** Stephanopoulos, N., & Francis, M. B. (2011).
-> Choosing an effective protein bioconjugation strategy. *Nature
-> Chemical Biology*, *7*(12), 876--884. doi:10.1038/nchembio.720
->
-> ***Recommended:*** Farkaš, P., & Bystrický, S. (2010). Chemical
-> conjugation of biomacromolecules: A mini-review. *Chemical Papers*,
-> *64*(6), 683--695. doi:10.2478/s11696-010-0057-z
->
-> **Pre-lab assignment**: See separate document.
->
-> **1.2 Preparation **
+Bioconjugation is the creation a covalent bond between molecules, at least one of which is a biological molecule. You will be conjugating a small fluorescent molecule (fluorescein) to a large protein (bovine serum albumin, BSA). Bioconjugate chemistry is useful to the bioengineer because it can allow tagging of biological molecules with something that is easily tracked by different instruments. Things that might usually be difficult to observe or measure (such as location and concentration of specific proteins in a living cell) can become visible under a microscope if you tag it with something that glows or fluoresces. Joining biological molecules to each other (or to chemical molecules that have special functions) can help a researcher study functions of enzymes in different environments or create new biological molecules or cells that may have clinical applications.
+
+There are many different chemical reactions that are commonly useful when conjugating biological molecules because most of these molecules are composed of similar elements, such as amino acids or sugars. These reactions have been discussed in lecture and represent a tool-box of relatively well-understood mechanisms of forming covalent bonds between specific types of chemical functional groups. Consider them different routes suggested by a GPS for getting from point A (two separate molecules) to point B (covalently joined molecules). There may be other ways, but these are the most common and useful. You will use NHS-fluorescein (N-hydroxysuccinimide attached to a fluorescein molecule) which is quickly and easily conjugated to proteins that contain primary amines (like lysine) in the amino acid sequence, provided that the lysines are accessible in the protein's folded state. Refer to your lecture notes for the mechanism of the reaction.
+
+The reaction takes place at room temperature just by mixing the molecules together. Because the NHS is a good leaving group it is
+easily displaced by the amine groups on a protein once they contact each other. You just need to provide the right conditions. Having more
+NHS-fluorescein than protein ensures that there are enough to easily bump into the available amines on the proteins. Having a reaction
+buffer (PBS, pH 7.4) which is just slightly basic helps to keep the molecules and reactive groups in the right folded conformation and
+protonation state for the reaction. One thing to be careful of is to bring the NHS-fluorescein in contact (mix it) with the protein before
+it reacts with water in the air. Being a good leaving group also makes NHS unstable. NHS-fluorescein is stored in the freezer as a dry
+powder. Your TA will dissolve it in N,N Dimethylformamide (DMF) which is an organic solvent with little to no water. The NHS should not
+contact water until it is mixed directly with your protein solution (DMF is miscible with water). To increase the probability of the NHS
+reacting with your protein rather than the water you should have a relatively high concentration of protein. These ratios and
+concentrations will be determined for you in this lab, but for future experiments keep these caveats in mind.
+
+Once sufficient time has passed for the reaction to take place you will purify the fluorescein-BSA conjugate from unreacted and excess NHS and fluorescein. Sephadex is a white powder which is very porous. You will use it to make a small gel filtration column. It has been soaked in PBS, the same solution as your reaction buffer. These particles, when packed together in a tube, can filter out small molecular weight molecules. Think of them as beads that have tiny pores. A tube of packed beads allows small things into its pores base on size, trapping them for a while. Larger molecules pass right by the beads. The sephadex you will use has a specific pore size that traps free fluorescein and NHS, while large molecules, like your protein, pass through the column. Of course if you flush the column long enough with a lot of liquid, eventually everything will come out.
+
+The degree of labeling on your BSA (how many fluorescent molecules you have on each protein molecule) will affect how strongly fluorescent your protein will be under the microscope. It will also affect the protein's solubility. Moreover, it is an indicator of how well the reaction went. You can calculate the degree of labeling by measuring the absorbance of the solution at two different wavelengths. Proteins most efficiently absorb light with a wavelength of 280*nm*. Fluorescein absorbs most at 494*nm*. Measuring the absorbance at these two wavelengths can give you the relative concentrations of protein to fluorescein in your solution, scaled by their molar absorptivity or extinction coefficient. The equations for this calculation are given to you in the procedures below. If you look up the structure of your protein, you can identify how many sites on the protein are potentially able to react with the NHS-fluorescein, for example 10. If the reaction was 100% efficient, you should calculate 10 fluorescein molecules per protein. You will likely have a lower ratio, but hopefully more than 1, meaning you have at least 1 fluorescein per protein and all your proteins are labeled.
+
+**Optional pre-lab readings:**
+
+***Highly Recommended:*** Stephanopoulos, N., & Francis, M. B. (2011). Choosing an effective protein bioconjugation strategy. *Nature Chemical Biology*, *7*(12), 876--884. doi:10.1038/nchembio.720
+
+***Recommended:*** Farkaš, P., & Bystrický, S. (2010). Chemical conjugation of biomacromolecules: A mini-review. *Chemical Papers*, *64*(6), 683--695. doi:10.2478/s11696-010-0057-z
+
+**Pre-lab assignment**: See separate document.
+
+ **1.2 Preparation **
 
 Reagents 
 =========
