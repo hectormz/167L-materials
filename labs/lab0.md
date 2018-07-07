@@ -30,7 +30,7 @@ In BE167L, the purpose of your Lab Notebook is to record your experiments *while
 Below is a sample of the type of information that should be recorded in the lab notebook. The original instructions were printed out, and then annotations were made over the original instructions, specifying observations and deviations from the protocol. Your TA will discuss these in detail during the section, and specify exactly what he/she will be grading.
 
 1.  Weigh out 150 mg of the MEM powder supplied by the TA.
-2.  Dissolve your MEM powder in 15 mL of DI water into a 15mL conical tube and label this tube as `buffer`.
+2.  Dissolve your MEM powder in 15 mL of DI water into a 15 mL conical tube and label this tube as `buffer`.
 3.  Take out 2.5 mL of your solution and place it into a new 15 mL conical tube, do this again so that you have a total of 3 conical tubes
 4.  Label one tube `acid+`, and the other `base+`.
 5.  To your `buffer` solution add 25 mg of NaHCO~3~ then repeat steps 3 and 4, except label these tubes `buffer acid+`, and `buffer base+.`

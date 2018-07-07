@@ -1,9 +1,3 @@
----
-header-includes: |
-    \renewcommand\familydefault{\sfdefault}
-    \usepackage[euler]{textgreek}
----
-
 # BE 167L - Bioengineering Laboratory
 
 ## Lab 1: Solutions, Measurements, and Microscopy
@@ -12,8 +6,7 @@ header-includes: |
 
 ### Solutions, Pipetting, and Scales
 
-In the laboratory, you will need to interact with both liquid and solid reagents. As an introduction, this lab will introduce you to the equipment used to handle and measure these reagents respectively. In particular, handling small volumes while pipetting is a crucial skill you must master in a wet lab environment. In this part of the lab, you will learn to operate multiple pieces of equipment in order to create a
-buffered solution and record the pH of your solutions.
+In the laboratory, you will need to interact with both liquid and solid reagents. As an introduction, this lab will introduce you to the equipment used to handle and measure these reagents respectively. In particular, handling small volumes while pipetting is a crucial skill you must master in a wet lab environment. In this part of the lab, you will learn to operate multiple pieces of equipment in order to create a buffered solution and record the pH of your solutions.
 
 #### Prelab Preparation
 
@@ -166,12 +159,7 @@ Equipment
     eject some of your suspension and allow capillary action to draw the
     liquid underneath the coverslip.
 
-3.  Place the hemocytometer on a microscope stage and check that the
-    magnification is 100x (10x objective x 10x eyepiece = 100x
-    magnification). Find the grid pattern on your hemocytometer. There
-    should be small beads scattered around the grid (see below).
-    Distinguish between beads and dust or debris - beads will be
-    spherical and uniform.
+3.  Place the hemocytometer on a microscope stage and check that the magnification is 100x (10x objective x 10x eyepiece = 100x magnification). Find the grid pattern on your hemocytometer. There should be small beads scattered around the grid (see below). Distinguish between beads and dust or debris - beads will be spherical and uniform.
 
 4.  Check the side of the objective you are using to determine the
     working distance and the numerical aperture. Determine if the
