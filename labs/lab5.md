@@ -32,7 +32,7 @@ Refer to the online videos for instruction on how to passage cells. Come to sect
 
 In the teaching lab you will be using NIH 3T3 mouse embryonic fibroblasts. Fibroblasts are the predominant cell in your connective tissue and actively secretes collagen to maintain these tissues. In addition, fibroblasts are a major player in wound healing and for these reasons are actively studied.
 
-> The cells you will be using in this lab come from a cell line isolated and initiated in 1962 at the New York University School of Medicine Department of Pathology. 3T3 refers to the cell transfer and inoculation protocol for the line, and means "3-day transfer, inoculum 3 x 10\^5 cells." Using this protocol, the immortal cell line begins to thrive and stabilize in cell culture after about 20-30 generations of in vitro growth. George Todaro and Howard Green, the scientists who first cultured this cell line, obtained the cells from desegregated NIH Swiss mouse embryo fibroblasts. The cell line has since become a standard fibroblast cell line."
+> The cells you will be using in this lab come from a cell line isolated and initiated in 1962 at the New York University School of Medicine Department of Pathology. 3T3 refers to the cell transfer and inoculation protocol for the line, and means "3-day transfer, inoculum 3 x 10^5^ cells." Using this protocol, the immortal cell line begins to thrive and stabilize in cell culture after about 20-30 generations of in vitro growth. George Todaro and Howard Green, the scientists who first cultured this cell line, obtained the cells from desegregated NIH Swiss mouse embryo fibroblasts. The cell line has since become a standard fibroblast cell line."
 
 Taken from <http://www.nih3t3.com/>; visit this website to learn more about this cell line.
 
@@ -90,59 +90,39 @@ Preparing Complete DMEM (10% FBS + 1% Pen/Strep)
 > **Summary of steps **
 
 -   There will be a flask ready for each group.
--   Students will lift cells from their flasks using trypsin and use a
-    hemocytometer to determine the cell density in the original flask.
+-   Students will lift cells from their flasks using trypsin and use a hemocytometer to determine the cell density in the original flask.
 -   Students will passage cells to different split ratios (seeding densities). Each group of students will seed into 3 wells of a 6 well plate. Each well of a 6 well plate has an area of \~9 cm^2^ and you will be seeding at 500, 4,000, and 10,000 cells/cm^2^. Your remaining cells will go into a new T-25.
--   The TA will organize your clean-up and show you how to deal with the
-    biohazard waste. Liquids must be aspirated into the flasks.
--   Place solids in appropriate biohazard bins according to type, TAs
-    will take the full bags to the waste collection site.
--   In the next lab you will count the cells in each of your flasks to
-    determine the growth kinetics (doubling time), and re-plate cells
-    for the protein assay in the next lab.
+-   The TA will organize your clean-up and show you how to deal with the biohazard waste. Liquids must be aspirated into the flasks.
+-   Place solids in appropriate biohazard bins according to type, TAs will take the full bags to the waste collection site.
+-   In the next lab you will count the cells in each of your flasks to determine the growth kinetics (doubling time), and re-plate cells for the protein assay in the next lab.
 
 Passaging Cells (Volumes are given for a T25 flask)
 
 1.  Spray down gloves with 70% ethanol before entering hood.
 2.  Spray down and wipe hood surface and sash with ethanol.
 3.  Warm up PBS, medium, and trypsin to 37^o^ C in water bath. Spray PBS, media, and trypsin bottles with ethanol and place in hood.
-
 4.  Tighten the cap and remove a flask with cells from the incubator. View under the microscope to assess 80% confluency for cell passaging. Check confluency with your TA before bringing cells back into the biosafety cabinet. **Note**: Be sure not to tip flask toward the neck when transporting to avoid possible contamination. Always check you cells for confluence and contamination under the microscope before you do anything.
-
 5.  Aspirate media from cells using a new 2mL serological pipette.
 
-> \***Note**: Instead of replacing the entire pipette in subsequent
-> steps, you can instead place a 200 uL pipette tip on the end of the
-> serological pipette, and swap that as needed.
+> **Note**: Instead of replacing the entire pipette in subsequent steps, you can instead place a 200 uL pipette tip on the end of the serological pipette, and swap that as needed.
 
-6.  Add 3mL 1X PBS with a 5mL serological pipette and pipette aid and
-    gently rock the flask back and forth.
-
-> \***Note**: When pipetting, be sure to always hold the pipette upright
-> to avoid fluid contamination into the pipette- aid.
-
+6.  Add 3mL 1X PBS with a 5mL serological pipette and pipette aid and gently rock the flask back and forth. **Note**: When pipetting, be sure to always hold the pipette upright to avoid fluid contamination into the pipette-aid.
 7.  Aspirate PBS with the 2 mL pipette into the vacuum flask.
 8.  Repeat steps 6 & 7. Use a **new** serological pipette to avoid contaminating the PBS. These PBS wash steps serve to ensure removal of *(i) ions that promote binding of cells to surfaces* and *(ii) trypsin inhibitors that are present in serum*.
 9.  Add 2mL 0.25% EDTA-Trypsin to cleave receptors involved in cells adhering to the surface and to chelate the ions that promote binding. COAT EVENLY. If you are trypsinizing a larger flask, like a T75, you will need more trypsin to coat the bottom of the flask, 5mL would be adequate for a T75.
 10. Place flask in the incubator for 5 minutes.
 11. View under the microscope to ensure cellular detachment. If there is still a small proportion of cells that remain attached, agitate the flask to detach the remaining cells by gently tapping the bottom of the flask. If the majority of the cells are attached, wait 2 more minutes and check again.
 
-> **\*Note**: Horizontally maintain the flask (i.e. keep it on a flat
-> plane) when agitating. See examples during the demos.
+**Note**: Horizontally maintain the flask (i.e. keep it on a flat plane) when agitating. See examples during the demos.
 
-12. Pipette 4mL of fresh media into flask with a 5mL serological
-    pipette. Suck up the solution and rinse the attachment area several
-    times to ensure that all the cells have been collected.
-
-13. Pipette cell solution from the flask into a 15ml conical tube. Mark
-    the tube so that you can identify it.
+12. Pipette 4mL of fresh media into flask with a 5mL serological pipette. Suck up the solution and rinse the attachment area several times to ensure that all the cells have been collected.
+13. Pipette cell solution from the flask into a 15ml conical tube. Mark the tube so that you can identify it.
 
 14. There should now be ~6 ml of cell solution in your tube. Gently flick the tube or agitate to resuspend the cells and quickly remove 200µL to a sterilized microcentrifuge tube (this will be used for a hemocytometer count). Centrifuge the 15mL conical tube at **150 xg (2500 rpm in our machine)** for 5 min. **NOTE:** do *not* start the centrifuge without checking with the TA to make sure that it is properly balanced.
 15. While your cells are centrifuging, count the cells in your microcentrifuge tube by resuspending them and transferring 10µL to each side of a hemocytometer. Calculate how many cells are spinning down in the centrifuge.
 16. Aspirate supernatant from tube, bringing the aspirator down to the point of the curvature, then tilting the tube to the side to allow the remaining media to move to the aspirator, and being **very careful** not to touch the cell pellet with the aspirator. A slight amount of media will remain attached to the pellet.
 
-> \***Note**: A new tip on the aspirating pipette can be used here in
-> case the previous was contaminated by being out in the open.
+> \***Note**: A new tip on the aspirating pipette can be used here in case the previous was contaminated by being out in the open.
 
 17. Knowing how many cells are in your large tube, resuspend the pellet in the appropriate volume of fresh complete media so that you have a final concentration of 1 million cells per mL. Ensure a homogeneous, even distribution of cells by pipetting up and down. It is important that you completely break up the pellet. Be careful not to overflow the media in the 15mL tube when pipetting up and down. Ask your TA for help if you do not feel confident about this step.
 18. Plate your cells at the specified concentrations with the provided well plate, be sure to label each well properly: 500, 4000, and 10000 cells/cm^2^. For example, assuming your cells are at 1 million cells per mL, and that you need a total of ~100,000 cells for a well seeded at a density of 10000 cells/cm^2^. You would take 100 uL of cells from your cell solution, and combine that with 2.9 mL of media (you want to have 3 mL of media in each well plate).
@@ -155,16 +135,16 @@ Passaging Cells (Volumes are given for a T25 flask)
 
 **Cell culture reference table**
 
-Plate             *Surface Area (cm2)*   *Trypsin (mL)*   *Growth Media (mL)*
+Plate             Surface Area (cm2)     Trypsin (mL)     Growth Media (mL)
 ----------------- ---------------------- ---------------- ---------------------
-*6 well plate*    *9.6*                  *2*              *3*
-*24 well plate*   *2*                    *.5*             *.8*
-*96 well plate*   *.5*                   *.1*             *.2*
-*T-25*            *25*                   *2*              *4*
-*T-75*            *75*                   *5*              *10*
+6 well plate      9.6                    2                3
+24 well plate     2                      .5               .8
+96 well plate     .5                     .1               .2
+T-25              25                     2                4
+T-75              75                     5                10
 
 **Proper Labelling**
 
-Cell Culture Flask
+Cell Culture Flask: `3T3 P1, "Experiment", 9/30/18, AM`
 
-Liquid reagent (ie. Media)
+Liquid reagent (ie. Media): `DMEM Complete, Section 1, 9/30/18, AM`
