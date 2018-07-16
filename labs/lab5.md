@@ -79,8 +79,8 @@ In this course, you will culture your cells in high glucose DMEM supplemented wi
 *Preparing Complete DMEM (10% FBS + 1% Pen/Strep)*
 
 1. Aliquot 44.5 mL of DMEM into a 50 mL tube.
-2. Aseptically add 5 mL of FBS and 500 uL of Pen/Strep
-3. Label your tube with Contents (DMEM Complete), Name, Section, and Date. Complete media can be kept in the fridge for \~a month before it will no longer sustain cells. Other media formulations may have different shelf lives depending on their contents. See the reference sheet below for an example of how to label properly.
+2. Aseptically add 5 mL of FBS and 500 µL of Pen/Strep
+3. Label your tube with Contents (DMEM Complete), Name, Section, and Date. Complete media can be kept in the fridge for approximately a month before it will no longer sustain cells. Other media formulations may have different shelf lives depending on their contents. See the reference sheet below for an example of how to label properly.
 
 **Passaging cells and counting**
 
@@ -93,54 +93,44 @@ In this course, you will culture your cells in high glucose DMEM supplemented wi
 -   Place solids in appropriate biohazard bins according to type, TAs will take the full bags to the waste collection site.
 -   In the next lab you will count the cells in each of your flasks to determine the growth kinetics (doubling time), and re-plate cells for the protein assay in the next lab.
 
-Passaging Cells (Volumes are given for a T25 flask)
+*Passaging Cells (Volumes are given for a T25 flask)*
 
 1.  Spray down gloves with 70% ethanol before entering hood.
 2.  Spray down and wipe hood surface and sash with ethanol.
-3.  Warm up PBS, medium, and trypsin to 37^o^ C in water bath. Spray PBS, media, and trypsin bottles with ethanol and place in hood.
+3.  Warm up PBS, medium, and trypsin to 37℃ in water bath. Spray PBS, media, and trypsin bottles with ethanol and place in hood.
 4.  Tighten the cap and remove a flask with cells from the incubator. View under the microscope to assess 80% confluency for cell passaging. Check confluency with your TA before bringing cells back into the biosafety cabinet. **Note**: Be sure not to tip flask toward the neck when transporting to avoid possible contamination. Always check you cells for confluence and contamination under the microscope before you do anything.
-5.  Aspirate media from cells using a new 2mL serological pipette.
-
-> **Note**: Instead of replacing the entire pipette in subsequent steps, you can instead place a 200 uL pipette tip on the end of the serological pipette, and swap that as needed.
-
-6.  Add 3mL 1X PBS with a 5mL serological pipette and pipette aid and gently rock the flask back and forth. **Note**: When pipetting, be sure to always hold the pipette upright to avoid fluid contamination into the pipette-aid.
+5.  Aspirate media from cells using a new 2 mL serological pipette. **Note**: Instead of replacing the entire pipette in subsequent steps, you can instead place a 200 µL pipette tip on the end of the serological pipette, and swap that as needed.
+6.  Add 3 mL 1X PBS with a 5 mL serological pipette and pipette aid and gently rock the flask back and forth. **Note**: When pipetting, be sure to always hold the pipette upright to avoid fluid contamination into the pipette-aid.
 7.  Aspirate PBS with the 2 mL pipette into the vacuum flask.
-8.  Repeat steps 6 & 7. Use a **new** serological pipette to avoid contaminating the PBS. These PBS wash steps serve to ensure removal of *(i) ions that promote binding of cells to surfaces* and *(ii) trypsin inhibitors that are present in serum*.
-9.  Add 2mL 0.25% EDTA-Trypsin to cleave receptors involved in cells adhering to the surface and to chelate the ions that promote binding. COAT EVENLY. If you are trypsinizing a larger flask, like a T75, you will need more trypsin to coat the bottom of the flask, 5mL would be adequate for a T75.
+8.  Repeat steps 6 & 7. Use a *new* serological pipette to avoid contaminating the PBS. These PBS wash steps serve to ensure removal of *(i) ions that promote binding of cells to surfaces* and *(ii) trypsin inhibitors that are present in serum*.
+9.  Add 2 mL 0.25% EDTA-Trypsin to cleave receptors involved in cells adhering to the surface and to chelate the ions that promote binding. COAT EVENLY. If you are trypsinizing a larger flask, like a T75, you will need more trypsin to coat the bottom of the flask, 5 mL would be adequate for a T75.
 10. Place flask in the incubator for 5 minutes.
-11. View under the microscope to ensure cellular detachment. If there is still a small proportion of cells that remain attached, agitate the flask to detach the remaining cells by gently tapping the bottom of the flask. If the majority of the cells are attached, wait 2 more minutes and check again.
-
-**Note**: Horizontally maintain the flask (i.e. keep it on a flat plane) when agitating. See examples during the demos.
-
-12. Pipette 4mL of fresh media into flask with a 5mL serological pipette. Suck up the solution and rinse the attachment area several times to ensure that all the cells have been collected.
+11. View under the microscope to ensure cellular detachment. If there is still a small proportion of cells that remain attached, agitate the flask to detach the remaining cells by gently tapping the bottom of the flask. If the majority of the cells are attached, wait 2 more minutes and check again. **Note**: Horizontally maintain the flask (i.e. keep it on a flat plane) when agitating. See examples during the demos.
+12. Pipette 4 mL of fresh media into flask with a 5mL serological pipette. Suck up the solution and rinse the attachment area several times to ensure that all the cells have been collected.
 13. Pipette cell solution from the flask into a 15ml conical tube. Mark the tube so that you can identify it.
-
-14. There should now be ~6 ml of cell solution in your tube. Gently flick the tube or agitate to resuspend the cells and quickly remove 200µL to a sterilized microcentrifuge tube (this will be used for a hemocytometer count). Centrifuge the 15mL conical tube at **150 xg (2500 rpm in our machine)** for 5 min. **NOTE:** do *not* start the centrifuge without checking with the TA to make sure that it is properly balanced.
+14. There should now be ~6 ml of cell solution in your tube. Gently flick the tube or agitate to resuspend the cells and quickly remove 200 µL to a sterilized microcentrifuge tube (this will be used for a hemocytometer count). Centrifuge the 15 mL conical tube at 150 x g (2500 rpm in our machine) for 5 min. **NOTE:** do *not* start the centrifuge without checking with the TA to make sure that it is properly balanced.
 15. While your cells are centrifuging, count the cells in your microcentrifuge tube by resuspending them and transferring 10µL to each side of a hemocytometer. Calculate how many cells are spinning down in the centrifuge.
-16. Aspirate supernatant from tube, bringing the aspirator down to the point of the curvature, then tilting the tube to the side to allow the remaining media to move to the aspirator, and being **very careful** not to touch the cell pellet with the aspirator. A slight amount of media will remain attached to the pellet.
-
-> \***Note**: A new tip on the aspirating pipette can be used here in case the previous was contaminated by being out in the open.
-
-17. Knowing how many cells are in your large tube, resuspend the pellet in the appropriate volume of fresh complete media so that you have a final concentration of 1 million cells per mL. Ensure a homogeneous, even distribution of cells by pipetting up and down. It is important that you completely break up the pellet. Be careful not to overflow the media in the 15mL tube when pipetting up and down. Ask your TA for help if you do not feel confident about this step.
+16. Aspirate supernatant from tube, bringing the aspirator down to the point of the curvature, then tilting the tube to the side to allow the remaining media to move to the aspirator, and being *very careful* not to touch the cell pellet with the aspirator. A slight amount of media will remain attached to the pellet. **Note**: A new tip on the aspirating pipette can be used here in case the previous was contaminated by being out in the open.
+17. Knowing how many cells are in your large tube, resuspend the pellet in the appropriate volume of fresh complete media so that you have a final concentration of 1 million cells per mL. Ensure a homogeneous, even distribution of cells by pipetting up and down. It is important that you completely break up the pellet. Be careful not to overflow the media in the 15 mL tube when pipetting up and down. Ask your TA for help if you do not feel confident about this step.
 18. Plate your cells at the specified concentrations with the provided well plate, be sure to label each well properly: 500, 4000, and 10000 cells/cm^2^. For example, assuming your cells are at 1 million cells per mL, and that you need a total of ~100,000 cells for a well seeded at a density of 10000 cells/cm^2^. You would take 100 uL of cells from your cell solution, and combine that with 2.9 mL of media (you want to have 3 mL of media in each well plate).
 19. Plate the rest of your cells into a new T-25 and properly label it.
-20. Remove the aspirating pippete and place it in the biohazard sharps container.
+20. Remove the aspirating pipette and place it in the biohazard sharps container.
 21. Review cells under the microscope. You should see different densities of round cells floating in different planes for each of your wells. *Note*: The microscope should be ethanol sprayed prior to placing the flask on it.
 22. Spray hands with ethanol.
 23. Wipe flask with ethanol sprayed kimwipe prior to placement in the incubator.
 24. Ethanol spray and wipe work area. Clean up for the next section!
 
-**Cell culture reference table**
+*Cell culture reference table*
 
-Plate             Surface Area (cm2)     Trypsin (mL)     Growth Media (mL)
+Plate             Surface Area (cm^2^)   Trypsin (mL)     Growth Media (mL)
 ----------------- ---------------------- ---------------- ---------------------
 6 well plate      9.6                    2                3
-24 well plate     2                      .5               .8
-96 well plate     .5                     .1               .2
+24 well plate     2                      0.5              0.8
+96 well plate     0.5                    0.1              0.2
 T-25              25                     2                4
 T-75              75                     5                10
 
-**Proper Labelling**
+*Proper Labelling*
 
 Cell Culture Flask: `3T3 P1, "Experiment", 9/30/18, AM`
 
