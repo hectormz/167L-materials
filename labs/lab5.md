@@ -20,7 +20,7 @@ Oxygen is important for keeping the cells alive. They get this from dissolved ox
 
 The medium must be replenished on a regular basis. You will take out the old medium and put in fresh medium. Think of it as their food, and once they use up the nutrients in the medium, they need to be fed again. You are also removing accumulated waste products. Many components in the medium, such as components of the serum, degrade quickly under physiological conditions like those in the incubator. This is why serum is stored in the freezer, and the complete medium is stored in the fridge and lasts only a month in the fridge. Once it is warmed up and stored in the incubator with cells, components begin to degrade even quicker, so you must replenish those by changing the medium. It is also a good idea to warm up only the amount of complete medium that you plan on using on a given day, to avoid degrading the whole bottle.
 
-Your medium contains a buffer to maintain the 7.4 pH. This buffer relies on CO~2~ to keep it from releasing into the atmosphere and becoming more basic (turning purple). The incubator has a CO~2~ sensor and injects CO~2~ from a tank to keep the level at 5%, which is the level of CO~2~ in your body and what is needed to maintain the pH of the medium. The purpose of this tray is to keep the humidity in the incubator at \~100%. This keeps your medium from evaporating during the culture period. If you notice that you have less media in your flask than you put in, check the water pan, it is probably empty. The humidity is also important for the type of CO~2~ sensor in the incubators. If the humidity is not high enough, the sensors become inaccurate and will not keep the correct CO~2~ levels, which will negatively affect the pH of your medium. Every time you open the incubator, the humidity goes down and the CO~2~ level drops. The longer you leave it open and the wider you open the door and the more turbulence you create when you open and close it, the closer it gets to the room air. An incubator that starts with the low humidity of the room can take 3-4 hours to reach full humidity, which means that it can take 3-4 hours for the CO~2~ sensor to work properly. Keep the doors closed. Open and close them gently, and only open them as wide as you need.
+Your medium contains a buffer to maintain pH 7.4. This buffer relies on CO~2~ to keep it from releasing into the atmosphere and becoming more basic (turning purple). The incubator has a CO~2~ sensor and injects CO~2~ from a tank to keep the level at 5%, which is the level of CO~2~ in your body and what is needed to maintain the pH of the medium. The purpose of this tray is to keep the humidity in the incubator at \~100%. This keeps your medium from evaporating during the culture period. If you notice that you have less media in your flask than you put in, check the water pan, it is probably empty. The humidity is also important for the type of CO~2~ sensor in the incubators. If the humidity is not high enough, the sensors become inaccurate and will not keep the correct CO~2~ levels, which will negatively affect the pH of your medium. Every time you open the incubator, the humidity goes down and the CO~2~ level drops. The longer you leave it open and the wider you open the door and the more turbulence you create when you open and close it, the closer it gets to the room air. An incubator that starts with the low humidity of the room can take 3-4 hours to reach full humidity, which means that it can take 3–4 hours for the CO~2~ sensor to work properly. Keep the doors closed. Open and close them gently, and only open them as wide as you need.
 
 Cells are living things and can be shocked by quick changes in their environment. When changing the medium or passaging, try to warm up their new environment before putting them in it. Often you will see researchers put the fresh medium in the new flask and put it in the incubator to adjust the CO~2~ levels and temperature of the medium while trypsinizing and counting the cells. If they have to keep the cells out of the incubator, they might keep them in a capped tube so that the atmospheric air won't continuously change the pH of the medium they're in, or keep them in PBS and reduce their temperature by placing them on ice so that their metabolic needs are slowed. It is important to know what conditions affect the components of your medium and your cells so that you can take the proper precautions when working with them. Setting up experiments can take longer than you think! Don't let your cells wither away in the biosafety hood while you do calculations and pipette solutions. It can take as little as 30 minutes for the pH of your cell culture medium to increase to toxic levels sitting on the counter or under the microscope without the CO~2~ environment of the incubator.
 
@@ -59,35 +59,32 @@ Taken from <http://www.nih3t3.com/>; visit this website to learn more about this
 **Equipment**
 
 - Biological safety cabinet (BSC)
-- Pipet-aid -- When using these, avoid aspirating liquid through the pipet and into the attachment head. If this does happen, **please inform your TA immediately.** It can be easily fixed if dealt with at the time.
+- Pipet-aid --- When using these, avoid aspirating liquid through the pipet and into the attachment head. If this does happen, **please inform your TA immediately.** It can be easily fixed if dealt with at the time.
 - Phase contrast microscope
 - Centrifuge
 - CO~2~ cell culture incubator
 
-Biological Agent Safety
-========================
+**Biological Agent Safety**
 
-In addition to your usual protective equipment, (lab coat, gloves safety glasses), you should be aware of these things. All disposable items that come in contact with them should be put into solid biohazard waste containers, this includes gloves, pipettes, tips, flasks, paper towels, tubes\... All liquid solutions that come into contact with them or contain them should be bleached for 30 minutes and then flushed down the drain with copious amounts of water (bleach will corrode the sewer pipes if you don't rinse with lots of water). Though you should be careful, don't put items into the biohazard bin if they are NOT actually contaminated with a biohazard. Serological pipettes, bottles, tips, and tubes that only contact sterile liquids that have not contacted human cells are NOT hazardous and can go in the regular trash. The university pays a vendor to haul away and incinerate all the biohazard waste. Don't put things in that don't need special treatment, it's wasteful. The water in the water baths contain a chemical that keeps bacteria and mold from growing in the body-temperature bath, so don't get it on your skin or splash it around too much. Wash your hands after contact.
+In addition to your usual protective equipment, (lab coat, gloves safety glasses), you should be aware of these things. All disposable items that come in contact with them should be put into solid biohazard waste containers, this includes gloves, pipettes, tips, flasks, paper towels, tubes... All liquid solutions that come into contact with them or contain them should be bleached for 30 minutes and then flushed down the drain with copious amounts of water (bleach will corrode the sewer pipes if you don't rinse with lots of water). Though you should be careful, don't put items into the biohazard bin if they are *not* actually contaminated with a biohazard. Serological pipettes, bottles, tips, and tubes that only contact sterile liquids that have not contacted human cells are *not* hazardous and can go in the regular trash. The university pays a vendor to haul away and incinerate all the biohazard waste. Don't put things in that don't need special treatment, it's wasteful. The water in the water baths contain a chemical that keeps bacteria and mold from growing in the body-temperature bath, so don't get it on your skin or splash it around too much. Wash your hands after contact.
 
-Please refer to section IV of the CDC guidelines for Biosafety in Microbiological and Biomedical
-
-**Laboratories, 5^th^ edition (posted on CCLE) and the lab-specific Biosafety Manual for more information. **
+*Please refer to section IV of the CDC guidelines for Biosafety in Microbiological and Biomedical Laboratories, 5^th^ edition (posted on CCLE) and the lab-specific Biosafety Manual for more information.*
 
 ### Procedure
 
-**2.2.1 Preparing Reagents **
+**Preparing Reagents**
 
 In this course, you will culture your cells in high glucose DMEM supplemented with 10% fetal bovine serum and 1% penicillin and streptomycin. In addition to using media, you will also use DPBS, and trypsin in the first part of the lab you will aliquot your own stock of media, DPBS and trypsin to use for the rest of the quarter. In addition, you will 'complete' your media by adding the supplements described above. **All reagents to be used for cell culture must be aliquoted in the hood for sterility.**
 
-Preparing Complete DMEM (10% FBS + 1% Pen/Strep)
+*Preparing Complete DMEM (10% FBS + 1% Pen/Strep)*
 
 1. Aliquot 44.5 mL of DMEM into a 50 mL tube.
 2. Aseptically add 5 mL of FBS and 500 uL of Pen/Strep
 3. Label your tube with Contents (DMEM Complete), Name, Section, and Date. Complete media can be kept in the fridge for \~a month before it will no longer sustain cells. Other media formulations may have different shelf lives depending on their contents. See the reference sheet below for an example of how to label properly.
 
-*Passaging cells and counting*
->
-> **Summary of steps **
+**Passaging cells and counting**
+
+*Summary of steps*
 
 -   There will be a flask ready for each group.
 -   Students will lift cells from their flasks using trypsin and use a hemocytometer to determine the cell density in the original flask.
