@@ -6,7 +6,7 @@ header-includes: |
 
 # Schedule
 
-## Week 1 (Oct 1 -- Oct 5)
+## Week 1 (Oct 1–Oct 5)
 
 **Lecture 1:** Introduction to the course, lab safety, lab notebooks, micropatterning surfaces, applications of micropatterned surfaces, photolithography, soft lithography.
 
@@ -16,7 +16,7 @@ header-includes: |
 
 **Assignments/Due Dates:** Bring lab coats to Lab 0.
 
-## Week 2 (Oct 8 -- Oct 12)
+## Week 2 (Oct 8–Oct 12)
 
 **Lecture 2:** Changes in surface energy (contact angle), materials that resist adsorption, bioconjugation, fluorophores and fluorescence.
 
@@ -26,7 +26,7 @@ header-includes: |
 
 **Assignments/Due Dates:** Complete Lab Safety Fundamentals Training, and upload screenshot of worksafe transcript showing completion, before Lab 1.
 
-## Week 3 (Oct 15 -- Oct 19)
+## Week 3 (Oct 15–Oct 19)
 
 **Lecture 3:** Cell culture, cell lines, sterile techniques, growth kinetics, data analysis and statistics fundamentals.
 
@@ -36,7 +36,7 @@ header-includes: |
 
 **Assignments/Due Dates:** None.
 
-## Week 4 (Oct 22 -- Oct 26)
+## Week 4 (Oct 22–Oct 26)
 
 **Lecture 4:** Microscopy fundamentals (brightfield, phase contrast), fluorescence and confocal microscopy, specialized microscopy techniques.
 
@@ -56,7 +56,7 @@ header-includes: |
 
 **Assignments/Due Dates:** None.
 
-## Week 6 ()
+## Week 6 (Nov 5–Nov 9)
 
 **Lecture 6:** Cell adhesion and migration, 3D cell culture and microenvironment.
 
@@ -69,9 +69,9 @@ header-includes: |
 - Case study 1: Cell migration in 3D culture (Fraley *et al*) due on 5/11 at 8 AM
 - Discuss independent project proposal with your TA during your lab session
 
-## Week 7 ()
+## Week 7 (Nov 12–Nov 16)
 
-**Lecture 7:** Cell mechanics, mechanical microenvironment, mechanotransduction.
+**No class.**
 
 **Mon/Tues Lab Sessions:** (11) Varying stiffness substrates and cell growth, seeding cells
 
@@ -83,9 +83,9 @@ header-includes: |
 - Case study 2: Substrate stiffness effect on MSCs (Engler, *et al*) due on 5/18 at 8 AM
 - Final Independent Project Proposals due on 5/18 at 8 AM
 
-## Week 8 ()
+## Week 8 (Nov 19–Nov 23)
 
-**No class.**
+**Lecture 7:** Cell mechanics, mechanical microenvironment, mechanotransduction.
 
 **Mon/Tues Lab Sessions:** Lab Practical Exam
 
@@ -93,7 +93,7 @@ header-includes: |
 
 **Assignments/Due Dates:** Reports for Labs 9-12 due on 5/25 by noon
 
-## Week 9 ()
+## Week 9 (Nov 26–Nov 30)
 
 **Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning.
 
@@ -105,7 +105,7 @@ header-includes: |
 
 - Case study 3: 3D hydrogel patterning (Gramlich *et al*) due on 6/1 at 8 AM
 
-## Week 10 ()
+## Week 10 (Dec 3–Dec 7)
 
 **Lecture:** **Exam 2** (first hour)
 
@@ -115,8 +115,8 @@ header-includes: |
 
 **Assignments/Due Dates:**
 
-- Course evaluations must be completed online by 6/9 at 8 AM
+- Course evaluations must be completed online by Dec 7 at 8 AM
 
 ## Finals
 
-Final Lab Report due Thurs., June 14, 2018 by noon
+Final Lab Report due Thurs., Dec 13, 2018 by noon
