@@ -46,7 +46,7 @@ header-includes: |
 
 **Assignments/Due Dates:** Reports for Labs 1–4 due on 4/24 by 12 PM.
 
-## Week 5 ()
+## Week 5 (Oct 29–Nov 2)
 
 **Lecture 5:** **Exam 1** (first hour), experimental design, guidelines for independent labs.
 
