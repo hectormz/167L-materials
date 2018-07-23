@@ -6,7 +6,7 @@ header-includes: |
 
 # Schedule
 
-## Week 1 ()
+## Week 1 (Oct 1 -- Oct 5)
 
 **Lecture 1:** Introduction to the course, lab safety, lab notebooks, micropatterning surfaces, applications of micropatterned surfaces, photolithography, soft lithography.
 
@@ -16,7 +16,7 @@ header-includes: |
 
 **Assignments/Due Dates:** Bring lab coats to Lab 0.
 
-## Week 2 ()
+## Week 2 (Oct 8 -- Oct 12)
 
 **Lecture 2:** Changes in surface energy (contact angle), materials that resist adsorption, bioconjugation, fluorophores and fluorescence.
 
@@ -26,7 +26,7 @@ header-includes: |
 
 **Assignments/Due Dates:** Complete Lab Safety Fundamentals Training, and upload screenshot of worksafe transcript showing completion, before Lab 1.
 
-## Week 3 ()
+## Week 3 (Oct 15 -- Oct 19)
 
 **Lecture 3:** Cell culture, cell lines, sterile techniques, growth kinetics, data analysis and statistics fundamentals.
 
@@ -36,7 +36,7 @@ header-includes: |
 
 **Assignments/Due Dates:** None.
 
-## Week 4 ()
+## Week 4 (Oct 22 -- Oct 26)
 
 **Lecture 4:** Microscopy fundamentals (brightfield, phase contrast), fluorescence and confocal microscopy, specialized microscopy techniques.
 
