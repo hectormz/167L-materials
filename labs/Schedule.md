@@ -32,7 +32,7 @@ header-includes: |
 **Lecture 4:** Microscopy fundamentals (brightfield, phase contrast), fluorescence and confocal microscopy, specialized microscopy techniques.  
 **Mon/Tues Lab Sessions:** (6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.  
 **Wed/Thurs Lab Sessions:** (7) Growth kinetics, cell counting, lysis, protein content (BCA assay).  
-**Assignments/Due Dates:** Reports for Labs 1–4 due on 4/24 by 12 PM.
+**Assignments/Due Dates:** Reports for Labs 1–4 due on Oct 23 by 12 PM.
 
 ## Week 5 (Oct 29–Nov 2)
 
@@ -48,6 +48,7 @@ header-includes: |
 **Wed/Thurs Lab Sessions:** (11) Varying stiffness substrates and cell growth, seeding cells.  
 **Assignments/Due Dates:**
 
+- Reports for Labs 5-8 due on Nov 6 by 12 PM
 - Case study 1: Cell migration in 3D culture (Fraley *et al*) due on Nov 9 at 8 AM
 - Discuss independent project proposal with your TA during your lab session
 
@@ -58,7 +59,6 @@ header-includes: |
 **Wed/Thurs Lab Sessions:** (12) Quantification and analysis of cell growth and morphology  
 **Assignments/Due Dates:**
 
-- Reports for Labs 5-8 due on 5/14 by 12 PM
 - Case study 2: Substrate stiffness effect on MSCs (Engler, *et al*) due on 5/18 at 8 AM
 - Final Independent Project Proposals due on Nov 16 at 8 AM
 
