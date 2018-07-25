@@ -74,18 +74,14 @@ header-includes: |
 **Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning.  
 **Mon/Tues Lab Sessions:** (13) Independent lab  
 **Wed/Thurs Lab Sessions:** (14) Independent lab  
-**Assignments/Due Dates:**
-
-- Case study 3: 3D hydrogel patterning (Gramlich *et al*) due on Nov 30 at 8 AM
+**Assignments/Due Dates:** Case study 3: 3D hydrogel patterning (Gramlich *et al*) due on Nov 30 at 8 AM
 
 ## Week 10 (Dec 3–Dec 7)
 
 **Lecture:** **Exam 2** (first hour)  
 **Mon/Tues Lab Sessions:** (15) Independent lab.  
 **Wed/Thurs Lab Sessions:** (16) Lab clean-up. *Required*.  
-**Assignments/Due Dates:**
-
-- Course evaluations must be completed online by Dec 7 at 8 AM
+**Assignments/Due Dates:** Course evaluations must be completed online by Dec 7 at 8 AM
 
 ## Finals
 
