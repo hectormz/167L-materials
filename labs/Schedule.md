@@ -11,7 +11,7 @@ header-includes: |
 **Lecture 1:** Introduction to the course, lab safety, lab notebooks, micropatterning surfaces, applications of micropatterned surfaces, photolithography, soft lithography.  
 **Mon/Tues Lab Sessions:** (0) Notebooks and lab safety orientation with TAs.  
 **Wed/Thurs Lab Sessions:** (1) Introduction to lab, measuring and microscopy.  
-**Assignments/Due Dates:** Bring lab coats to Lab 0.
+**Assignments/Due Dates:** Bring lab coats to Lab 0. Fill out feedback form by Oct 5 at noon.
 
 ## Week 2 (Oct 8–Oct 12)
 
@@ -25,7 +25,7 @@ header-includes: |
 **Lecture 3:** Cell culture, cell lines, sterile techniques, growth kinetics, data analysis and statistics fundamentals.  
 **Mon/Tues Lab Sessions:** (4) Microcontact printing, fluorescent microscopy of patterned proteins, and contact angle measurements.  
 **Wed/Thurs Lab Sessions:** (5) Cell culture—Passaging and counting cells, introduction to sterile technique.  
-**Assignments/Due Dates:** None.
+**Assignments/Due Dates:** Case study 1: Cell migration in 3D culture (Fraley *et al*) due on Nov 9 at 8 AM.
 
 ## Week 4 (Oct 22–Oct 26)
 
@@ -49,7 +49,6 @@ header-includes: |
 **Assignments/Due Dates:**
 
 - Reports for Labs 5-8 due on Nov 6 by 12 PM
-- Case study 1: Cell migration in 3D culture (Fraley *et al*) due on Nov 9 at 8 AM
 - Discuss independent project proposal with your TA during your lab session
 
 ## Week 7 (Nov 12–Nov 16)
