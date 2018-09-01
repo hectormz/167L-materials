@@ -73,7 +73,7 @@ header-includes: |
 **Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning.  
 **Mon/Tues Lab Sessions:** (13) Independent lab  
 **Wed/Thurs Lab Sessions:** (14) Independent lab  
-**Assignments/Due Dates:** Case study 3: 3D hydrogel patterning (Gramlich *et al*) due on Nov 30 at 8 AM
+**Assignments/Due Dates:** Case study 3: Substrate stiffness effect on MSCs ([Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044)) due on Nov 30 at 8 AM
 
 ## Week 10 (Dec 3–Dec 7)
 
