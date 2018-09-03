@@ -58,12 +58,12 @@ header-includes: |
 **Wed/Thurs Lab Sessions:** (12) Quantification and analysis of cell growth and morphology  
 **Assignments/Due Dates:**
 
-- Case study 2: Substrate stiffness effect on MSCs (Engler, *et al*) due on 5/18 at 8 AM
+- Case study 2: Focal adhesion and migration in 3D ([Fraley, *et al*](https://dx.doi.org/10.1038%2Fncb2062)) due on Nov 16 at 8 AM
 - Final Independent Project Proposals due on Nov 16 at 8 AM
 
 ## Week 8 (Nov 19–Nov 23)
 
-**Lecture 7:** Cell mechanics, mechanical microenvironment, mechanotransduction.  
+**Lecture 7:** Cell mechanics, mechanical microenvironment, mechanotransduction, review [Fraley, *et al*](https://dx.doi.org/10.1038%2Fncb2062).  
 **Mon/Tues Lab Sessions:** Lab Practical Exam  
 **Wed/Thurs Lab Sessions:** No lab (Thanksgiving); Make-up labs Wednesday (if needed)  
 **Assignments/Due Dates:** Reports for Labs 9-12 due on Nov 21 by noon
