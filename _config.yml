@@ -1,28 +1,11 @@
 title: BIOENGR 167L - Bioengineering Laboratory (Fall 2018)
 author: Aaron Meyer
 email: your-email@domain.com
-description: > # this means to ignore newlines until "twitter_username:"
-  Class materials for Bioengineering 167L at UCLA.
-
-# social links
-twitter_username: jekyllrb
-github_username:  jekyll
-
-show_excerpts: false # set to true to show excerpts on the homepage
-
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
+description: Class materials for Bioengineering 167L at UCLA.
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.md
 # 
-theme: minima
-
-baseurl:/167L-materials/
-
-plugins:
- - jekyll-seo-tag
+theme: jekyll-theme-primer
