@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
-Syllabus
+[Syllabus](README.html)

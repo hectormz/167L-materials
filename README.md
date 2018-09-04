@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 header-includes: |
     \renewcommand\familydefault{\sfdefault}
     \usepackage[euler]{textgreek}
