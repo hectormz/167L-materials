@@ -12,7 +12,7 @@ pipeline {
     stage('Build') {
       steps {
         sh 'bundle exec jekyll build'
-        sh 'make -j 33 -s'
+        sh 'make all -j 33 -s'
       }
     }
     stage('Test'){
