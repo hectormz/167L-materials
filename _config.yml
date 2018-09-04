@@ -24,5 +24,7 @@ minima:
 # 
 theme: minima
 
+baseurl:/167L-materials/
+
 plugins:
  - jekyll-seo-tag
