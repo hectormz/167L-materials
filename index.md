@@ -4,6 +4,8 @@ layout: default
 
 [Syllabus](README.html) ([PDF](Syllabus.pdf))
 
+[Schedule](labs/Schedule.html) ([PDF](Schedule.pdf))
+
 ## Labs
 
 - [Lab 0](labs/lab0.html) ([PDF](lab0.pdf))
