@@ -62,7 +62,7 @@ header-includes: |
 **Wed/Thurs Lab Sessions:** (12) Quantification and analysis of cell growth and morphology  
 **Assignments/Due Dates:**
 
-- Case study 2: Focal adhesion and migration in 3D ([Fraley, *et al*](https://dx.doi.org/10.1038%2Fncb2062)) due on Nov 16 at 8 AM
+- Case study 2: Focal adhesion and migration in 3D ([Fraley, *et al*](https://dx.doi.org/10.1038%2Fncb2062)) due on Nov 16 at noon
 - Final Independent Project Proposals due on Nov 16 at noon
 
 ## Week 8 (Nov 19–Nov 23)
