@@ -16,7 +16,7 @@ Class Hours:
 ~ Lecture (Monday: 8:00–9:50 am, Boelter Hall 5440)
 
 Lab Hours:
-~ MW 12:00–2:50 pm, TR 12:00–2:50 pm, or TR 3:00–5:50 pm
+~ MW 12:00–2:50 pm or TR 12:00–2:50 pm
 
 **Teaching Assistants:**
 
