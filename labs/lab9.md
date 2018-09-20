@@ -54,7 +54,7 @@ If time permits, your TA will give a demonstration on how to encapsulate cells i
 6. Fill the 3 cell solution tubes to the 5 mL mark with DPBS, and centrifuge. You are rinsing the cells one more time prior to encapsulation in this step.
 7. Aspirate the DPBS and resuspend in 1 mL of the alginate solution for each tube. You should now have 3 tubes with different cell density that you can calculate from before.
 8.  Bring a 6 well plate into the hood, and aliquot 2.5 mL of 100 mM calcium chloride solution per well. Make sure this is done under sterile conditions. You can label your 6 well plate for the 3 different densities at this time as well.
-9.  Use a 1000 μL pipette to dropwise from the appropriate tube to each well. Do this slowly, and be careful to not aggregate beads. Your TA may demonstrate this part of the procedure for you at this time.
+9.  Use a 200 μL pipette to dropwise from the appropriate tube to each well. Do this slowly, and be careful to not aggregate beads. Your TA may demonstrate this part of the procedure for you at this time.
 10. Incubate at RT for 10 minutes, then rinse 4 times with sterile DI H~2~O. These rinsing steps remove the excess calcium ions. Using a 1000 μL pipette to remove the water is easiest, an aspirating pipette may suck up the alginate beads.
 11. Fill each well with cells with 5 mL of media. The encapsulated cells require more media to survive.
 
