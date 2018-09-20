@@ -70,24 +70,18 @@ In addition to your usual precautions, be aware that the NHS-fluorescein is diss
 
 **ε** = Molar extinction coefficient
 
-Molar extinction coefficient of BSA: **ε**~BSA~ = 43,824M^-1^cm^-1^
+Molar extinction coefficient of BSA: **ε**~BSA~ = 43,824 M^-1^cm^-1^
 
-Molar extinction coefficient of Fluorescein: **ε**~Fl~ = 70,000
-M^-1^cm^-1\ ^
+Molar extinction coefficient of Fluorescein: **ε**~Fl~ = 70,000 M^-1^cm^-1^
 
 A~max~ = A~494~ for this experiment
 
-CF = Correction factor = 0.30 for this experiment (CF of plain
-fluorescein)
+CF = Correction factor = 0.30 for this experiment (CF of plain fluorescein)
 
-*A*^280^ -- (*A*^max^ $\times$ *CF*)
+$$A_{280} - (A_{max} \times CF)$$
 
-Protein Concentration (M) =
-
-∑ *BSA*
+Protein Concentration (M) = ∑ *BSA*
 
 *A*^max^ of labeled protein
 
-Mol of fluorescein per mol of protein =
-
-∑*~Fl~* $\times$ protein concentration (M)
+Mol of fluorescein per mol of protein = ∑*~Fl~* $\times$ protein concentration (M)
