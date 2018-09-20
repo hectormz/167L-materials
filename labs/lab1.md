@@ -35,25 +35,25 @@ Review the following instructions **PRIOR** to your lab where your TA will demon
 -   DI Water (12 mL)
 -   MEM powder (120 mg)
 -   Sodium Bicarbonate NaHCO3 (25mg)
--   Hydrochloric Acid HCl (.5M)
--   Sodium Hydroxide NaOH (.5M)
+-   Hydrochloric Acid HCl (0.5M)
+-   Sodium Hydroxide NaOH (0.5M)
 
 Supplies 
 =========
 
--   15 mL conical tube
--   Pipette tips
--   Sharpie marker
--   Serological Pipettes
+- 15 mL conical tube
+- Pipette tips
+- Sharpie marker
+- Serological Pipettes
 
 Equipment 
 ==========
 
--   Pipettes
--   Pipet-Aid
--   Scale or balance
--   Tube rack
--   pH meter
+- Pipettes
+- Pipet-Aid
+- Scale or balance
+- Tube rack
+- pH meter
 
 1.3 Procedure 
 --------------
@@ -69,33 +69,31 @@ Equipment
 2. Plate Reader and Serial Dilutions
 ====================================
 
-In addition to creating solutions, you will often find that you need to dilute them prior to use. In this section of the lab, you will practice
-generating serial dilutions of your previously made buffer. In addition, you will take absorbance readings of your serial dilutions to verify
-your technique as well as generate data to perform statistical analysis on.
+In addition to creating solutions, you will often find that you need to dilute them prior to use. In this section of the lab, you will practice generating serial dilutions of your previously made buffer. In addition, you will take absorbance readings of your serial dilutions to verify your technique as well as generate data to perform statistical analysis on.
 
 **2.1 Preparation**
 
 Reagents
 
--   DI Water
--   Buffer from Part 1
+- DI Water
+- Buffer from Part 1
 
 Supplies
 
--   96 well plate (shared with another group)
--   P200 pipette
+- 96 well plate (shared with another group)
+- P200 pipette
 
 Equipment
 
--   Plate reader
+- Plate reader
 
 2.2 Procedure 
 --------------
 
-**1.** You and your partner will share a 96 well plate with another group be sure to properly record which wells belong to your group.
-**2.** You and your partner will generate 4 serial dilutions using your buffered solution. Each step of your dilution should cut your concentration in half (a 2x dilution), and the final volume in each well should be 200 uL. You will perform 4 steps for each dilution which should result in 4 wells with the following concentrations (1x, .5x, .25x, .125x). For further clarification consult the posted video then fill in the attached template with your dilution scheme.
-**3.** In addition pipette 100 uL of your **acid+** and **basic+** into four additional wells respectively.
-**4.** After you have finished pipetting take your plate to the TA to have it run on the plate reader, and record the absorbance values in your lab notebook.
+1. You and your partner will share a 96 well plate with another group be sure to properly record which wells belong to your group.
+2. You and your partner will generate 4 serial dilutions using your buffered solution. Each step of your dilution should cut your concentration in half (a 2x dilution), and the final volume in each well should be 200 uL. You will perform 4 steps for each dilution which should result in 4 wells with the following concentrations (1x, .5x, .25x, .125x). For further clarification consult the posted video then fill in the attached template with your dilution scheme.
+3. In addition pipette 100 uL of your **acid+** and **basic+** into four additional wells respectively.
+4. After you have finished pipetting take your plate to the TA to have it run on the plate reader, and record the absorbance values in your lab notebook.
 
 ![](media/image2.png){width="7.503472222222222in"
 height="4.986805555555556in"}
@@ -133,32 +131,24 @@ Equipment
 3.2 Procedure 
 --------------
 
-1.  Dispense 500*µL* of water into microcentrifuge tube.
-
-2.  Add 100*µL* bead solution from your TA to the water. Keep track of
-    this tube of microspheres for future labs. Store in your drawer with
-    your initials on it.
-
-3.  Uniformly distribute the particles by pipetting the liquid up and
-    down. Do this just prior to collecting the liquid to place on the
-    hemocytometer. Beads and cells settle quickly.
-
-4.  Make sure your hemocytometer is clean. If needed, wipe gently with
-    70% alcohol and a Kimwipe.
+1. Dispense 500 µL of water into microcentrifuge tube.
+2. Add 100 µL bead solution from your TA to the water. Keep track of this tube of microspheres for future labs. Store in your drawer with your initials on it.
+3. Uniformly distribute the particles by pipetting the liquid up and down. Do this just prior to collecting the liquid to place on the hemocytometer. Beads and cells settle quickly.
+4. Make sure your hemocytometer is clean. If needed, wipe gently with 70% alcohol and a Kimwipe.
 
 ![](media/image3.jpg){width="5.79in" height="1.555in"}
 
-1. Place your coverslip on top of the mounting supports.
-2. Load the sample of the bead suspension into one side of the cover-slipped hemocytometer at the sample induction point (see below). Use a P200 or P20 pipette and draw up 10*µL* of bead suspension (make sure it is well mixed before drawing up your sample). Place the end of the pipette tip against the sample introduction point (the depressed triangle at the edge). *Slowly* eject some of your suspension and allow capillary action to draw the liquid underneath the coverslip.
-3. Place the hemocytometer on a microscope stage and check that the magnification is 100x (10x objective x 10x eyepiece = 100x magnification). Find the grid pattern on your hemocytometer. There should be small beads scattered around the grid (see below). Distinguish between beads and dust or debris - beads will be spherical and uniform.
-4. Check the side of the objective you are using to determine the working distance and the numerical aperture. Determine if the working distance is appropriate for looking through the distance of the hemocytometer.
-5. On the side that you loaded you will count all of the beads in the squares that comprise the 4 corners of the grid (1, 3, 7, and 9, or 10, 12, 16, and 18) as labeled in the diagram below. Each corner covers and area 1*mm* by 1*mm*. Beads overlapping the top and left hand sides of the square should be omitted from the count. Counting all overlapping beads would produce an artificially high bead number by increasing the actual volume of bead suspension in the counting area. (Refer to the posted video for further instructions)
-6. Calculate the average number of beads per counting square. Each square is 1 mm long and 1 mm wide. The chamber itself is 0.1 mm deep. The volume of the liquid above one square is therefore 0.1 mm^3^. Since 1*mm*^3^ = 10*–*4 *cm*^3^ the volume of the liquid counted is 10*^-4^* *mL*. Your bead concentration beads/*mL* is the number you counted multiplied by 10^4^. Do your own dimensional analysis to confirm this.
-7. Have your partner load another sample and count the number of beads. If the counts agree, you're both in good shape. If not, one of you had a problem either loading or counting. Ask the instructor for help if you're not sure.
-8. Immediately after use, clean the hemocytometer and coverslip with 70% alcohol and dry with a Kimwipe. Store in plastic case and return it to your TA.
-9. Clean up all materials and check with TA before leaving.
+5. Place your coverslip on top of the mounting supports.
+6. Load the sample of the bead suspension into one side of the cover-slipped hemocytometer at the sample induction point (see below). Use a P200 or P20 pipette and draw up 10*µL* of bead suspension (make sure it is well mixed before drawing up your sample). Place the end of the pipette tip against the sample introduction point (the depressed triangle at the edge). *Slowly* eject some of your suspension and allow capillary action to draw the liquid underneath the coverslip.
+7. Place the hemocytometer on a microscope stage and check that the magnification is 100x (10x objective x 10x eyepiece = 100x magnification). Find the grid pattern on your hemocytometer. There should be small beads scattered around the grid (see below). Distinguish between beads and dust or debris - beads will be spherical and uniform.
+8. Check the side of the objective you are using to determine the working distance and the numerical aperture. Determine if the working distance is appropriate for looking through the distance of the hemocytometer.
+9. On the side that you loaded you will count all of the beads in the squares that comprise the 4 corners of the grid (1, 3, 7, and 9, or 10, 12, 16, and 18) as labeled in the diagram below. Each corner covers and area 1*mm* by 1*mm*. Beads overlapping the top and left hand sides of the square should be omitted from the count. Counting all overlapping beads would produce an artificially high bead number by increasing the actual volume of bead suspension in the counting area. (Refer to the posted video for further instructions)
+10. Calculate the average number of beads per counting square. Each square is 1 mm long and 1 mm wide. The chamber itself is 0.1 mm deep. The volume of the liquid above one square is therefore 0.1 mm^3^. Since 1 mm^3^ = 10*–*4 cm^3^ the volume of the liquid counted is 10*^-4^* mL. Your bead concentration beads/mL is the number you counted multiplied by 10^4^. Do your own dimensional analysis to confirm this.
+11. Have your partner load another sample and count the number of beads. If the counts agree, you're both in good shape. If not, one of you had a problem either loading or counting. Ask the instructor for help if you're not sure.
+12. Immediately after use, clean the hemocytometer and coverslip with 70% alcohol and dry with a Kimwipe. Store in plastic case and return it to your TA.
+13. Clean up all materials and check with TA before leaving.
 
-> ![](media/image4.jpg){width="4.0in" height="4.263333333333334in"}
+> ![](media/image4.jpg){width="4.0in" height="4.263in"}
 
 *Common sources of hemocytometer count error:*
 
