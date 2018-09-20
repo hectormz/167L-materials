@@ -66,7 +66,7 @@ You and your lab partner may start working on different parts of the procedure a
 5. Take one tube from each seeding condition and count them on the hemocytometer. You may need to further dilute this tube prior to counting in order to count a reasonable amount of cells. Because you combined two wells together you will have to divide by 2 in order to get an average number of cells per well.
 6. Centrifuge your other tubes again at 150 x g (1.5 rcf on the other centrifuge) for 5 minutes. This rinses your cells of proteins in the medium and trypsin before you extract the protein from your cells.
 7. Aspirate the DPBS and add 200 μL RIPA buffer to the cell pellet to lyse the cells. Do not take more than needed. Pipette up and down to mix. Transfer this suspension to a properly labeled microcentrifuge tube.
-8. Put each of your microcentrifuge tubes (you should have 3) on ice or in ice water and shake gently for 15 minutes, then centrifuge the tubes in the microcentrifuge at 14,000 x g for 15 minutes (again check with the TA to make sure it is properly balanced). *Note:* During this time, you or your lab partner may trypsinize your T25 flask and passage those cells to a *new* 96-well plate (to be shared with other groups) with densities of 4,000 and 10,000 cells/cm^2^. You will have 4 wells of each cell density. Label them appropriately on the sheet 96 well plate sheet your TA will have so you know which wells are yours. Seed a new T25 flask for next week.
+8. Put each of your microcentrifuge tubes (you should have 3) on ice or in ice water and shake gently for 15 minutes, then centrifuge the tubes in the microcentrifuge at 14,000 x g for 15 minutes (again check with the TA to make sure it is properly balanced). *Note:* During this time, you or your lab partner may trypsinize your T25 flask and passage those cells to a *new* 96-well plate (to be shared with other groups) with densities of 4,000 and 10,000 cells/cm^2^. You will have 4 wells of each cell density. Label them appropriately on the 96 well plate sheet your TA will have so you know which wells are yours. Seed a new T25 flask for next week.
 9.  Without disturbing the pellet on the bottom of the microcentrifuge tubes (which may be very faint), carefully transfer the supernatant to a new, properly labeled microcentrifuge tube.
 
 **BCA assay**
@@ -106,6 +106,6 @@ A glass ampule of BSA at 2 mg/mL concentration is provided in the kit to make se
 5. Add 200 µL of WR to each well and mix on the shaker.
 6. Cover and incubate at 37℃ for 30 minutes. Cool the well plate to room temperature
 7. Record the absorbance of each well and record the data related to your wells.
-8. At this point please also get data from two other groups, when you report your data, you will use your group plus two other groups data for statistical analysis. Don't forget during your analysis that your protein lysate is from two well!
+8. At this point please also get data from two other groups, when you report your data, you will use your group plus two other groups data for statistical analysis. Don't forget during your analysis that your protein lysate is from two wells!
 
 ![Plate layout](labs/graphics/96-well-plate.png)
