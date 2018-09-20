@@ -165,16 +165,7 @@ There will be three case studies, and each summary paragraph will be worth a max
 ~ student did not turn in a summary
 
 
-The following manuscripts will be evaluated as case studies. PDFs of the papers will be posted on CCLE.
-
-Case Study 1:
-~ Fraley *et al*. A distinctive role for focal adhesion proteins in three-dimensional cell motility. *Nature Cell Biology* **2010**, *12(6)*, 598-604.
-
-Case Study 2: 
-~ Engler *et al*. Matrix Elasticity Directs Stem Cell Lineage Specification. *Cell* **2006**, *126*, 677–689.
-
-Case Study 3:
-~ Burdick *et al*. Synthesis and orthogonal photopatterning of hyaluronic acid hydrogels with thiol-norbonene chemistry. *Biomaterials* **2013** *34(38)*, 9803-9811.
+Three manuscripts will be evaluated as case studies. PDFs of the papers will be posted on CCLE.
 
 #### 4.1.3. Independent Project Proposals:
 
