@@ -78,10 +78,6 @@ A~max~ = A~494~ for this experiment
 
 CF = Correction factor = 0.30 for this experiment (CF of plain fluorescein)
 
-$$A_{280} - (A_{max} \times CF)$$
+Protein Concentration (M) = $\frac{A_{280} - (A_{max} \times CF)}{\sum BSA}$ 
 
-Protein Concentration (M) = ∑ *BSA*
-
-*A*^max^ of labeled protein
-
-Mol of fluorescein per mol of protein = ∑*~Fl~* $\times$ protein concentration (M)
+Mol of fluorescein per mol of protein = $\frac{A_{max} of labeled protein}{\sum Fl \times protein concentration (M)}$  
