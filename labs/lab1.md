@@ -1,10 +1,8 @@
 # BE 167L - Bioengineering Laboratory
 
-## Lab 1: Solutions, Measurements, and Microscopy
+# Lab 1: Solutions, Measurements, and Microscopy
 
-------------------------------------------------------------------------------
-
-### Solutions, Pipetting, and Scales
+## Solutions, Pipetting, and Scales
 
 In the laboratory, you will need to interact with both liquid and solid reagents. As an introduction, this lab will introduce you to the equipment used to handle and measure these reagents respectively. In particular, handling small volumes while pipetting is a crucial skill you must master in a wet lab environment. In this part of the lab, you will learn to operate multiple pieces of equipment in order to create a buffered solution and record the pH of your solutions.
 
@@ -32,22 +30,20 @@ Review the following instructions **PRIOR** to your lab where your TA will demon
 
 **Reagents**
 
--   DI Water (12 mL)
--   MEM powder (120 mg)
--   Sodium Bicarbonate NaHCO3 (25mg)
--   Hydrochloric Acid HCl (0.5M)
--   Sodium Hydroxide NaOH (0.5M)
+- DI Water (12 mL)
+- MEM powder (120 mg)
+- Sodium Bicarbonate NaHCO3 (25mg)
+- Hydrochloric Acid HCl (0.5M)
+- Sodium Hydroxide NaOH (0.5M)
 
-Supplies 
-=========
+**Supplies**
 
 - 15 mL conical tube
 - Pipette tips
 - Sharpie marker
 - Serological Pipettes
 
-Equipment 
-==========
+**Equipment**
 
 - Pipettes
 - Pipet-Aid
@@ -59,7 +55,7 @@ Equipment
 --------------
 
 1. Weigh out 120 mg of the MEM powder supplied by the TA.
-2. Dissolve your MEM powder in 12 mL's of DI water into a 15mL conical tube and label this tube as **buffer**.
+2. Dissolve your MEM powder in 12 mL's of DI water into a 15 mL conical tube and label this tube as **buffer**.
 3. Take out 2.5 mL's of your solution and place it into a new 15 mL conical tube, do this again so that you have a total of 3 conical tubes
 4. Label one tube **acid+**, and the other **base+**.
 5. To your **buffer** solution add 25 mg of NaHCO3 then repeat steps 3 and 4, except label these tubes **buffer acid+**, and **buffer base+.**
@@ -95,38 +91,30 @@ Equipment
 3. In addition pipette 100 uL of your **acid+** and **basic+** into four additional wells respectively.
 4. After you have finished pipetting take your plate to the TA to have it run on the plate reader, and record the absorbance values in your lab notebook.
 
-![](media/image2.png){width="7.503472222222222in"
-height="4.986805555555556in"}
+![Plate layout](labs/graphics/96-well-plate.png)
 
 3. Light Microscopy 
 ====================
 
-Particle and cell density can be measured using a hemocytometer and
-inverted microscope. Each student should count the beads, calculate the
-bead concentration and compare their results with their partner. Beads
-will look uniform and round. You may see particles which are not round,
-much smaller, or much larger than the beads. Do not count this debris.
+Particle and cell density can be measured using a hemocytometer and inverted microscope. Each student should count the beads, calculate the bead concentration and compare their results with their partner. Beads will look uniform and round. You may see particles which are not round, much smaller, or much larger than the beads. Do not count this debris.
 
 **3.1 Preparation**
 
-Reagents 
-=========
+**Reagents**
 
--   Water
--   Solution of 10*µm* beads
+- Water
+- Solution of 10 µm beads
 
-Supplies 
-=========
+**Supplies**
 
--   1.5 mL – 2 mL microcentrifuge tube
--   P1000 pipette
--   P200 pipette
+- 1.5 mL – 2 mL microcentrifuge tube
+- P1000 pipette
+- P200 pipette
 
-Equipment 
-==========
+**Equipment**
 
--   Inverted microscope
--   Hemocytometer with glass coverslip
+- Inverted microscope
+- Hemocytometer with glass coverslip
 
 3.2 Procedure 
 --------------
@@ -143,7 +131,7 @@ Equipment
 7. Place the hemocytometer on a microscope stage and check that the magnification is 100x (10x objective x 10x eyepiece = 100x magnification). Find the grid pattern on your hemocytometer. There should be small beads scattered around the grid (see below). Distinguish between beads and dust or debris - beads will be spherical and uniform.
 8. Check the side of the objective you are using to determine the working distance and the numerical aperture. Determine if the working distance is appropriate for looking through the distance of the hemocytometer.
 9. On the side that you loaded you will count all of the beads in the squares that comprise the 4 corners of the grid (1, 3, 7, and 9, or 10, 12, 16, and 18) as labeled in the diagram below. Each corner covers and area 1*mm* by 1*mm*. Beads overlapping the top and left hand sides of the square should be omitted from the count. Counting all overlapping beads would produce an artificially high bead number by increasing the actual volume of bead suspension in the counting area. (Refer to the posted video for further instructions)
-10. Calculate the average number of beads per counting square. Each square is 1 mm long and 1 mm wide. The chamber itself is 0.1 mm deep. The volume of the liquid above one square is therefore 0.1 mm^3^. Since 1 mm^3^ = 10*–*4 cm^3^ the volume of the liquid counted is 10*^-4^* mL. Your bead concentration beads/mL is the number you counted multiplied by 10^4^. Do your own dimensional analysis to confirm this.
+10. Calculate the average number of beads per counting square. Each square is 1 mm long and 1 mm wide. The chamber itself is 0.1 mm deep. The volume of the liquid above one square is therefore 0.1 mm^3^. Since 1 mm^3^ = 10^–4^ cm^3^ the volume of the liquid counted is 10^-4^ mL. Your bead concentration beads/mL is the number you counted multiplied by 10^4^. Do your own dimensional analysis to confirm this.
 11. Have your partner load another sample and count the number of beads. If the counts agree, you're both in good shape. If not, one of you had a problem either loading or counting. Ask the instructor for help if you're not sure.
 12. Immediately after use, clean the hemocytometer and coverslip with 70% alcohol and dry with a Kimwipe. Store in plastic case and return it to your TA.
 13. Clean up all materials and check with TA before leaving.
@@ -152,8 +140,6 @@ Equipment
 
 *Common sources of hemocytometer count error:*
 
-Variable sampling from the original bead suspension. The original bead
-suspension must be thoroughly mixed just prior to sampling or beads will
-settle to the bottom quickly.
+Variable sampling from the original bead suspension. The original bead suspension must be thoroughly mixed just prior to sampling or beads will settle to the bottom quickly.
 
 Inadequate or excessive filling of the hemocytometer chamber.
