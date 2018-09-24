@@ -146,7 +146,7 @@ We will review several recent experiments and papers in the recent literature th
 2. How was data analyzed and presented? What statistical methods were used? Was data extracted and how was it extracted from images? How was data presented to be easy to understand?
 3. How did the authors draw conclusions from the data? Is their logic sound? What assumptions were made? Are these assumptions identified by the authors?
 
-These case studies must be worked on individually and turned in individually at the beginning of class. Any duplicate text or other plagiarism will result in a zero for the assignment. **Case studies must be uploaded to CCLE by 8 AM the day of the in-lecture discussion.**
+These case studies must be worked on individually and turned in individually at the beginning of class. Any duplicate text or other plagiarism will result in a zero for the assignment. **Case studies must be uploaded to CCLE by noon the Friday before the in-lecture discussion.**
 
 There will be three case studies, and each summary paragraph will be worth a maximum of 3 participation points, for a total of 9 points. Participation in class discussion of the case studies will be worth 1 point per lecture discussion, for a total of 3 points.
 
