@@ -70,14 +70,17 @@ header-includes: |
 **Lecture 7:** Cell mechanics, mechanical microenvironment, mechanotransduction, review [Fraley, *et al*](https://dx.doi.org/10.1038%2Fncb2062).  
 **Mon/Tues Lab Sessions:** Lab Practical Exam  
 **Wed/Thurs Lab Sessions:** No lab (Thanksgiving); Make-up labs Wednesday (if needed)  
-**Assignments/Due Dates:** Reports for Labs 9-12 due on Nov 20 at noon.
+**Assignments/Due Dates:** None.
 
 ## Week 9 (Nov 26–Nov 30)
 
 **Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning.  
 **Mon/Tues Lab Sessions:** (13) Independent lab  
 **Wed/Thurs Lab Sessions:** (14) Independent lab  
-**Assignments/Due Dates:** Case study 3: Substrate stiffness effect on MSCs ([Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044)) due on Nov 30 at noon.
+**Assignments/Due Dates:**
+
+- Reports for Labs 9-12 due on Nov 27 at noon.
+- Case study 3: Substrate stiffness effect on MSCs ([Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044)) due on Nov 30 at noon.
 
 ## Week 10 (Dec 3–Dec 7)
 
