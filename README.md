@@ -24,7 +24,7 @@ Class Hours:
 
 **Office Hours:**
 
-- Prof. Meyer: Friday at 2:00 pm, Eng V TBD or by appointment
+- Prof. Meyer: Friday at 2:00 pm, Eng V 4129 or by appointment
 - TAs: by appointment
 
 **Lab Location:** Labs will always meet in Boelter Hall 7732
