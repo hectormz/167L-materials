@@ -18,8 +18,8 @@ Class Hours:
 **Lab Hours and Teaching Assistants:**
 
 - LAB 1A (MW 9:00–11:50 pm): Alireza Sohrabi (<alireza.sohrabi67@gmail.com>)
-- LAB 1B (MW 12:00–2:50 pm): Arshia Ehsanipour (<arshiaehsanipour@gmail.com>)
-- LAB 1C (TR 9:00–11:50 am): Shreya Udani (<shreyau@g.ucla.edu>)
+- LAB 1B (MW 12:00–2:50 pm): Shreya Udani (<shreyau@g.ucla.edu>)
+- LAB 1C (TR 9:00–11:50 am): Arshia Ehsanipour (<arshiaehsanipour@gmail.com>)
 - LAB 1D (TR 3:00–5:50 pm): William Schmidt (<wschmidt96@g.ucla.edu>)
 
 **Office Hours:**
