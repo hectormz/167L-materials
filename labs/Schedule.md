@@ -68,7 +68,7 @@ header-includes: |
 
 ## Week 8 (May 20–May 24)
 
-**Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning, review [Fraley, *et al*](https://dx.doi.org/10.1038%2Fncb2062).  
+**No class.**  
 **Mon/Tues Lab Sessions:** Lab Practical Exam  
 **Wed/Thurs Lab Sessions:** (13) Independent lab  
 **Assignments/Due Dates:**
@@ -77,7 +77,7 @@ header-includes: |
 
 ## Week 9 (May 27–May 31)
 
-**No class.**  
+**Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning, review [Fraley, *et al*](https://dx.doi.org/10.1038%2Fncb2062).  
 **Mon/Tues Lab Sessions:** No lab (Memorial Day); Make-up labs Tuesday (if needed)  
 **Wed/Thurs Lab Sessions:** (14) Independent lab  
 **Review Session:** During Friday office hours.  
