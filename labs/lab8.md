@@ -4,7 +4,7 @@
 
 ## Prelab reading
 
-Read the posted technical article from BioTechniques (vol 37, p406-412, 2004). Also read the instructions for the CellTiter 96 AQeous One Solution Cell Proliferation Assay from Promega.
+Read the posted technical article from BioTechniques (vol 37, p406-412, 2004). Also read the [instructions for the CellTiter 96 AQeous One Solution Cell Proliferation Assay](https://www.promega.com/-/media/files/resources/protocols/technical-bulletins/0/celltiter-96-aqueous-one-solution-cell-proliferation-assay-system-protocol.pdf?la=en) from Promega.
 
 You will learn how to use the MTS assay, which is a measure of metabolic activity of living cells. Since all cells in a given population generally have similar metabolic activity, this assay can have a relatively linear correlation to the number of live cells. Rather than a measure of total protein content, like the BCA assay, which can include already dead cells and secreted proteins from cells, this assay measures an activity of LIVING cells. Can you think of reasons to use the BCA assay over the MTS assay? Can you think of reasons to use the MTS assay over the BCA assay? The posted article describes conditions under which the MTS assay become inaccurate as an indicator of cell number. It is important, when learning new assays, to understand how they work so that details that may contribute to discrepancies are found sooner rather than later. In your future work, be conscientious about doing your research into products and kits purchased from companies. Make sure they are appropriate for your working range and you perform the proper controls before collecting data on your experimental samples.
 
