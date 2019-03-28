@@ -8,6 +8,8 @@ layout: default
 
 [Report Guidelines](labs/Report-Guideline.html) ([PDF](Report-Guideline.pdf))
 
+[Project Notes](project-notes.html)
+
 ## Labs
 
 - [Lab 0](labs/lab0.html) ([PDF](lab0.pdf))
