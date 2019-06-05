@@ -50,6 +50,8 @@ McMillan, VE. Writing Papers in the Biological Sciences, 5th Ed. Boston, MA. Bed
 
 **Lab Notebooks:** You must purchase a bound notebook and bring it to every lab session. You will need to maintain records your experiments in your notebook according to the requirements posted on CCLE.
 
+**Course Materials Fee:** After 4th week, you will be charged a course materials fee of $50 automatically through BruinBill. This is meant to offset a small portion of the supplies cost for the course.
+
 ## 2. Course Description
 
 This class will focus on the development of practical laboratory skills and analytical techniques of use for bioengineering research. At the end of this lab, you will be familiar with experimental methods to interrogate mammalian cell behavior. This will involve step-by-step laboratories investigating various aspects of bioengineering including bioconjugation, soft lithography, surface modification, microcontact printing, cell and tissue culture, and microscopy. Lectures will be synchronized with your laboratory investigations to provide a broader context to the experimental techniques and provide valuable opportunities for analysis of current scientific writing and research practices.
