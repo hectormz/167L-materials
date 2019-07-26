@@ -4,7 +4,7 @@
 
 ## Solutions, Pipetting, and Scales
 
-In the laboratory, you will need to interact with both liquid and solid reagents. As an introduction, this lab will introduce you to the equipment used to handle and measure these reagents respectively. In particular, handling small volumes while pipetting is a crucial skill you must master in a wet lab environment. In this part of the lab, you will learn to operate multiple pieces of equipment in order to create a buffered solution and record the pH of your solutions.
+In the laboratory, you will need to interact with both liquid and solid reagents. As an introduction, this lab will introduce you to the equipment used to handle and measure these reagents respectively. Handling small volumes while pipetting is a crucial skill you must master in a wet lab environment. In this part of the lab, you will learn to operate multiple pieces of equipment in order to create a buffered solution and record the pH of your solutions.
 
 ### Prelab Preparation
 
@@ -54,11 +54,11 @@ Review the following instructions **PRIOR** to your lab where your TA will demon
 ### Procedure
 
 1. Weigh out 120 mg of the MEM powder supplied by the TA.
-2. Dissolve your MEM powder in 12 mL's of DI water into a 15 mL conical tube and label this tube as **buffer**.
-3. Take out 2.5 mL's of your solution and place it into a new 15 mL conical tube, do this again so that you have a total of 3 conical tubes
+2. Dissolve your MEM powder in 12 mL of DI water into a 15 mL conical tube and label this tube as **buffer**.
+3. Take out 2.5 mL of your solution and place it into a new 15 mL conical tube, do this again so that you have a total of 3 conical tubes.
 4. Label one tube **acid+**, and the other **base+**.
 5. To your **buffer** solution add 25 mg of NaHCO~3~ then repeat steps 3 and 4, except label these tubes **buffer acid+**, and **buffer base+.**
-6. To your tubes labelled **acid+** add 100 µL of the HCl solution provided by your TA, and to your tubes labelled **base+** add 100 uL of the NaOH solution provided by your TA. Record any observations at this time.
+6. To your tubes labelled **acid+** add 100 µL of the HCl solution provided by your TA, and to your tubes labelled **base+** add 100 µL of the NaOH solution provided by your TA. Record any observations at this time.
 7. Measure the pH of each solution using the pH meter and record measured values in your lab notebook. Consult your TA for further guidance if necessary.
 
 ## Plate Reader and Serial Dilutions
@@ -84,7 +84,7 @@ In addition to creating solutions, you will often find that you need to dilute t
 ### Procedure
 
 1. You and your partner will share a 96 well plate with another group be sure to properly record which wells belong to your group.
-2. You and your partner will generate 4 serial dilutions using your buffered solution. Each step of your dilution should cut your concentration in half (a 2x dilution), and the final volume in each well should be 200 µL. You will perform 4 steps for each dilution which should result in 4 wells with the following concentrations (1x, .5x, .25x, .125x). For further clarification consult the posted video then fill in the attached template with your dilution scheme.
+2. You and your partner will generate 4 serial dilutions using your buffered solution. Each step of your dilution should cut your concentration in half (a 2x dilution), and the final volume in each well should be 100 µL. You will perform 4 steps for each dilution which should result in 4 wells with the following concentrations (1x, .5x, .25x, .125x). Also add 100 µL of water to 4 wells to represent a concentration of zero. For further clarification consult the posted video then fill in the attached template with your dilution scheme.
 3. In addition pipette 100 µL of your **acid+** and **basic+** into four additional wells respectively.
 4. After you have finished pipetting take your plate to the TA to have it run on the plate reader, and record the absorbance values in your lab notebook.
 
