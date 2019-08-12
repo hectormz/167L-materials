@@ -19,7 +19,6 @@ header-includes: |
 
 - Bring lab coats to Lab 0.
 - Complete [Lab Safety Fundamentals Training](https://worksafe.ucla.edu/), and upload screenshot of worksafe transcript showing completion, before Lab 1.
-- Fill out feedback form by Friday at noon.
 
 ## Week 2 (October 7–11)
 
