@@ -59,7 +59,7 @@ header-includes: |
 ### Assignments/Due Dates:
 
 - Answer questions on [Shaffer *et al*](https://www.nature.com/articles/nature22794) before lecture.
-- Reports for Labs 1–4 due on Thursday at noon.
+- Report for labs 1–4 due on Thursday at noon.
 
 ## Week 5 (October 28–November 1)
 
@@ -87,7 +87,7 @@ header-includes: |
 
 ### Assignments/Due Dates:
 
-- Reports for Labs 5-8 due on Thursday at noon
+- Report for labs 5-8 due on Thursday at noon
 - Final Independent Project Proposals due on Friday at noon
 
 ## Week 7 (November 11–15)
@@ -115,7 +115,7 @@ header-includes: |
 ### Assignments/Due Dates:
 
 - Answer questions on [Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044) before lecture.
-- Reports for Labs 9-12 due on Thursday at noon.
+- Report for labs 9-12 due on Thursday at noon.
 
 ## Week 9 (November 25–29)
 
