@@ -17,9 +17,9 @@ Class Hours:
 
 **Lab Hours and Teaching Assistants:**
 
-- LAB 1A (MW 12:00–2:50 pm): TBD (<TBD@ucla.edu>)
-- LAB 1B (TR 12:00–2:50 pm): TBD (<TBD@ucla.edu>)
-- LAB 1C (MW  3:00–5:50 pm): TBD (<TBD@ucla.edu>)
+- LAB 1A (MW 12:00–2:50 pm): Tina Huang (<tinahuang962@gmail.com>)
+- LAB 1B (TR 12:00–2:50 pm): Hector Munoz (<hmunoz14@ucla.edu>)
+- LAB 1C (MW  3:00–5:50 pm): Mark van Zee (<mvanzee2014@ucla.edu>)
 
 **Office Hours:**
 
